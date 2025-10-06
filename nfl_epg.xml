@@ -1,217 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <!-- NFL+ 1 - Browns @ Ravens -->
-  <channel id="NFL+1">
-    <display-name>NFL+ 1</display-name>
+  <channel id="NFL Game Pass 1 :">
+    <display-name>Chiefs VS Jaguars @ 8:15 PM</display-name>
   </channel>
-  
-  <!-- NFL+ 2 - Seahawks @ Steelers -->
-  <channel id="NFL+2">
-    <display-name>NFL+ 2</display-name>
+  <channel id="NFL Game Pass 2 :">
+    <display-name>Chiefs VS Jaguars @ 8:15 PM (Backup)</display-name>
   </channel>
-  
-  <!-- NFL+ 3 - Bills @ Jets -->
-  <channel id="NFL+3">
-    <display-name>NFL+ 3</display-name>
-  </channel>
-  
-  <!-- NFL+ 4 - 49ers @ Saints -->
-  <channel id="NFL+4">
-    <display-name>NFL+ 4</display-name>
-  </channel>
-  
-  <!-- NFL+ 5 -->
-  <channel id="NFL+5">
-    <display-name>NFL+ 5</display-name>
-  </channel>
-  
-  <!-- NFL+ 6 -->
-  <channel id="NFL+6">
-    <display-name>NFL+ 6</display-name>
-  </channel>
-  
-  <!-- NFL+ 7 -->
-  <channel id="NFL+7">
-    <display-name>NFL+ 7</display-name>
-  </channel>
-  
-  <!-- NFL+ 8 -->
-  <channel id="NFL+8">
-    <display-name>NFL+ 8</display-name>
-  </channel>
-  
-  <!-- NFL+ 9 -->
-  <channel id="NFL+9">
-    <display-name>NFL+ 9</display-name>
-  </channel>
-  
-  <!-- NFL+ 10 -->
-  <channel id="NFL+10">
-    <display-name>NFL+ 10</display-name>
-  </channel>
-  
-  <!-- NFL+ 11 -->
-  <channel id="NFL+11">
-    <display-name>NFL+ 11</display-name>
-  </channel>
-  
-  <!-- NFL+ 12 -->
-  <channel id="NFL+12">
-    <display-name>NFL+ 12</display-name>
-  </channel>
-  
-  <!-- NFL+ 13 -->
-  <channel id="NFL+13">
-    <display-name>NFL+ 13</display-name>
-  </channel>
-  
-  <!-- NFL+ 14 -->
-  <channel id="NFL+14">
-    <display-name>NFL+ 14</display-name>
-  </channel>
-  
-  <!-- NFL+ 15 -->
-  <channel id="NFL+15">
-    <display-name>NFL+ 15</display-name>
-  </channel>
-  
-  <!-- NFL+ 16 -->
-  <channel id="NFL+16">
-    <display-name>NFL+ 16</display-name>
-  </channel>
-  
-  <!-- NFL+ 17 -->
-  <channel id="NFL+17">
-    <display-name>NFL+ 17</display-name>
-  </channel>
+  <programme start="20251006234500 +0000" stop="20251007001500 +0000" channel="NFL Game Pass 1 :">
+    <title>Players Getting Ready: Kansas City Chiefs vs Jacksonville Jaguars</title>
+    <desc>Watch as players warm up and prepare for the upcoming NFL game between Kansas City Chiefs and Jacksonville Jaguars. Pre-game coverage, team preparations, and behind-the-scenes access.</desc>
+    <category>Sports</category>
+    <sub-title>Pregame Warmups</sub-title>
+    <icon src="https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"/>
+  </programme>
+  <programme start="20251007001500 +0000" stop="20251007034500 +0000" channel="NFL Game Pass 1 :">
+    <title>Event Today: Kansas City Chiefs @ Jacksonville Jaguars @ 8:15 PM</title>
+    <desc>🏈 NFL • National Football League
 
-  <!-- Programs for NFL+ 1 - Browns @ Ravens -->
-  <programme start="20250914115500 +0000" stop="20250914125500 +0000" channel="NFL+1">
-    <title>Players Warming Up</title>
-    <desc>Pre-game warmups and team preparation for Browns @ Ravens</desc>
-  </programme>
-  
-  <programme start="20250914125500 +0000" stop="20250914161000 +0000" channel="NFL+1">
-    <title>NFL Today: Browns @ Ravens LIVE</title>
-    <desc>AFC North divisional matchup as the Cleveland Browns visit the Baltimore Ravens. Two teams with strong defenses and running games clash in what promises to be a physical, hard-fought battle. Watch as Lamar Jackson leads the Ravens offense against Cleveland's formidable defense.</desc>
-  </programme>
-  
-  <programme start="20250914161000 +0000" stop="20250914171000 +0000" channel="NFL+1">
-    <title>Overtime If Needed</title>
-    <desc>Extended coverage for potential overtime and post-game analysis</desc>
-  </programme>
+🏆 **Kansas City Chiefs vs Jacksonville Jaguars**
 
-  <!-- Programs for NFL+ 2 - Seahawks @ Steelers -->
-  <programme start="20250914115500 +0000" stop="20250914125500 +0000" channel="NFL+2">
-    <title>Players Warming Up</title>
-    <desc>Pre-game warmups and team preparation for Seahawks @ Steelers</desc>
-  </programme>
-  
-  <programme start="20250914125500 +0000" stop="20250914161000 +0000" channel="NFL+2">
-    <title>NFL Today: Seahawks @ Steelers LIVE</title>
-    <desc>Cross-conference clash as the Seattle Seahawks travel to Pittsburgh to face the Steelers. Two storied franchises meet with the Seahawks' explosive passing attack going up against Pittsburgh's legendary Steel Curtain defense. Expect a high-energy game at Heinz Field.</desc>
-  </programme>
-  
-  <programme start="20250914161000 +0000" stop="20250914171000 +0000" channel="NFL+2">
-    <title>Overtime If Needed</title>
-    <desc>Extended coverage for potential overtime and post-game analysis</desc>
-  </programme>
+• NFL team - Kansas City Chiefs
+• NFL team - Jacksonville Jaguars
 
-  <!-- Programs for NFL+ 3 - Bills @ Jets -->
-  <programme start="20250914115500 +0000" stop="20250914125500 +0000" channel="NFL+3">
-    <title>Players Warming Up</title>
-    <desc>Pre-game warmups and team preparation for Bills @ Jets</desc>
+Live NFL football action between Kansas City Chiefs and Jacksonville Jaguars.</desc>
+    <category>Sports</category>
+    <icon src="https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"/>
   </programme>
-  
-  <programme start="20250914125500 +0000" stop="20250914161000 +0000" channel="NFL+3">
-    <title>NFL Today: Bills @ Jets LIVE</title>
-    <desc>AFC East rivalry heats up as the Buffalo Bills visit the New York Jets. Division rivals clash with playoff implications on the line. The Bills' high-powered offense led by Josh Allen faces off against the Jets' improving defense in this crucial divisional matchup.</desc>
+  <programme start="20251006234500 +0000" stop="20251007001500 +0000" channel="NFL Game Pass 2 :">
+    <title>Players Getting Ready: Chiefs vs Jaguars</title>
+    <desc>Watch as players warm up and prepare for the upcoming NFL game between Chiefs and Jaguars. Pre-game coverage, team preparations, and behind-the-scenes access.</desc>
+    <category>Sports</category>
+    <sub-title>Pregame Warmups</sub-title>
   </programme>
-  
-  <programme start="20250914161000 +0000" stop="20250914171000 +0000" channel="NFL+3">
-    <title>Overtime If Needed</title>
-    <desc>Extended coverage for potential overtime and post-game analysis</desc>
-  </programme>
+  <programme start="20251007001500 +0000" stop="20251007034500 +0000" channel="NFL Game Pass 2 :">
+    <title>Event Today: Chiefs @ Jaguars @ 8:15 PM</title>
+    <desc>🏈 NFL • National Football League
 
-  <!-- Programs for NFL+ 4 - 49ers @ Saints -->
-  <programme start="20250914115500 +0000" stop="20250914125500 +0000" channel="NFL+4">
-    <title>Players Warming Up</title>
-    <desc>Pre-game warmups and team preparation for 49ers @ Saints</desc>
-  </programme>
-  
-  <programme start="20250914125500 +0000" stop="20250914161000 +0000" channel="NFL+4">
-    <title>NFL Today: 49ers @ Saints LIVE</title>
-    <desc>NFC showdown as the San Francisco 49ers travel to New Orleans to battle the Saints. The 49ers' championship-caliber roster meets the Saints in the loud Superdome. Expect an offensive showcase with both teams featuring dynamic playmakers and innovative offensive schemes.</desc>
-  </programme>
-  
-  <programme start="20250914161000 +0000" stop="20250914171000 +0000" channel="NFL+4">
-    <title>Overtime If Needed</title>
-    <desc>Extended coverage for potential overtime and post-game analysis</desc>
-  </programme>
+🏆 **Chiefs vs Jaguars**
 
-  <!-- Programs for NFL+ 5-17 (No games scheduled) -->
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+5">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+6">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+7">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+8">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+9">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+10">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+11">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+12">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+13">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+14">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+15">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+16">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
-  </programme>
-  
-  <programme start="20250914000000 +0000" stop="20250914235959 +0000" channel="NFL+17">
-    <title>No Games Scheduled</title>
-    <desc>No games scheduled for this channel today</desc>
+
+Live NFL football action between Chiefs and Jaguars.</desc>
+    <category>Sports</category>
   </programme>
 </tv>
