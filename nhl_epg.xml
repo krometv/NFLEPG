@@ -41,26 +41,4 @@ Live NHL hockey action between Pittsburgh Penguins and New York Rangers.</desc>
 Live NHL hockey action between Colorado Avalanche and Los Angeles Kings.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251007170000 +0000" stop="20251007200000 +0000" channel="NHL.blackhawks.vs.panthers">
-    <title>🏒 Chicago Blackhawks vs Florida Panthers</title>
-    <desc>🏒 NHL • National Hockey League
-
-🏆 **Chicago Blackhawks vs Florida Panthers**
-
-
-Live NHL hockey action between Chicago Blackhawks and Florida Panthers.
-
-Original Six matchup!</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251007200000 +0000" stop="20251007230000 +0000" channel="NHL.penguins.vs.rangers">
-    <title>🏒 Pittsburgh Penguins vs New York Rangers</title>
-    <desc>🏒 NHL • National Hockey League
-
-🏆 **Pittsburgh Penguins vs New York Rangers**
-
-
-Live NHL hockey action between Pittsburgh Penguins and New York Rangers.</desc>
-    <category>Sports</category>
-  </programme>
 </tv>
