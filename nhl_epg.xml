@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="NHL.jays.vs.yankees">
+    <display-name>NHL.jays.vs.yankees</display-name>
+  </channel>
+  <channel id="NHL.cavaliers.vs.bulls">
+    <display-name>NHL.cavaliers.vs.bulls</display-name>
+  </channel>
+  <channel id="NHL.chicago.vs.florida">
+    <display-name>NHL.chicago.vs.florida</display-name>
+  </channel>
+  <channel id="NHL.pittsburgh.vs.rangers">
+    <display-name>NHL.pittsburgh.vs.rangers</display-name>
+  </channel>
+  <channel id="NHL.colorado.vs.angeles">
+    <display-name>NHL.colorado.vs.angeles</display-name>
+  </channel>
+  <programme start="20251007200800 +0000" stop="20251007230800 +0000" channel="NHL.jays.vs.yankees">
+    <title>🏒 Toronto Blue Jays vs New York Yankees</title>
+    <desc>🏒 NHL • National Hockey League
+
+🏆 **Toronto Blue Jays vs New York Yankees**
+
+
+Live NHL hockey action between Toronto Blue Jays and New York Yankees.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251007190000 +0000" stop="20251007220000 +0000" channel="NHL.cavaliers.vs.bulls">
+    <title>🏒 Cleveland Cavaliers vs Chicago Bulls</title>
+    <desc>🏒 NHL • National Hockey League
+
+🏆 **Cleveland Cavaliers vs Chicago Bulls**
+
+
+Live NHL hockey action between Cleveland Cavaliers and Chicago Bulls.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251007170000 +0000" stop="20251007200000 +0000" channel="NHL.chicago.vs.florida">
+    <title>🏒 Chicago vs Florida</title>
+    <desc>🏒 NHL • National Hockey League
+
+🏆 **Chicago vs Florida**
+
+
+Live NHL hockey action between Chicago and Florida.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251007200000 +0000" stop="20251007230000 +0000" channel="NHL.pittsburgh.vs.rangers">
+    <title>🏒 Pittsburgh vs New York Rangers</title>
+    <desc>🏒 NHL • National Hockey League
+
+🏆 **Pittsburgh vs New York Rangers**
+
+
+Live NHL hockey action between Pittsburgh and New York Rangers.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251007223000 +0000" stop="20251008013000 +0000" channel="NHL.colorado.vs.angeles">
+    <title>🏒 Colorado vs Los Angeles</title>
+    <desc>🏒 NHL • National Hockey League
+
+🏆 **Colorado vs Los Angeles**
+
+
+Live NHL hockey action between Colorado and Los Angeles.</desc>
+    <category>Sports</category>
+  </programme>
+</tv>
