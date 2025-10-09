@@ -1,44 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-  <channel id="NHL.blackhawks.vs.panthers">
-    <display-name>NHL.blackhawks.vs.panthers</display-name>
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="NHL EPG Generator" generator-info-url="https://github.com">
+  <channel id="NHL 01:">
+    <display-name>NHL 01:</display-name>
   </channel>
-  <channel id="NHL.penguins.vs.rangers">
-    <display-name>NHL.penguins.vs.rangers</display-name>
+  <channel id="NHL 02:">
+    <display-name>NHL 02:</display-name>
   </channel>
-  <channel id="NHL.avalanche.vs.kings">
-    <display-name>NHL.avalanche.vs.kings</display-name>
+  <channel id="NHL 03:">
+    <display-name>NHL 03:</display-name>
   </channel>
-  <programme start="20251007170000 +0000" stop="20251007200000 +0000" channel="NHL.blackhawks.vs.panthers">
-    <title>🏒 Chicago Blackhawks vs Florida Panthers</title>
-    <desc>🏒 NHL • National Hockey League
-
-🏆 **Chicago Blackhawks vs Florida Panthers**
-
-
-Live NHL hockey action between Chicago Blackhawks and Florida Panthers.
-
-Original Six matchup!</desc>
-    <category>Sports</category>
+  <channel id="NHL 04:">
+    <display-name>NHL 04:</display-name>
+  </channel>
+  <programme start="20251008180000 +0000" stop="20251008190000 +0000" channel="NHL 01:">
+    <title>Game Starting Soon: Montreal Canadiens vs Toronto Maple Leafs @ 7:00 PM</title>
+    <desc>Live NHL action</desc>
   </programme>
-  <programme start="20251007200000 +0000" stop="20251007230000 +0000" channel="NHL.penguins.vs.rangers">
-    <title>🏒 Pittsburgh Penguins vs New York Rangers</title>
-    <desc>🏒 NHL • National Hockey League
+  <programme start="20251008190000 +0000" stop="20251008223000 +0000" channel="NHL 01:">
+    <title>Live: Montreal Canadiens vs Toronto Maple Leafs</title>
+    <desc>🏒 HOCKEY • NHL
 
-🏆 **Pittsburgh Penguins vs New York Rangers**
+🏆 **Montreal vs Toronto**
 
 
-Live NHL hockey action between Pittsburgh Penguins and New York Rangers.</desc>
-    <category>Sports</category>
+Hockey team
+Hockey team
+</desc>
   </programme>
-  <programme start="20251007223000 +0000" stop="20251008013000 +0000" channel="NHL.avalanche.vs.kings">
-    <title>🏒 Colorado Avalanche vs Los Angeles Kings</title>
-    <desc>🏒 NHL • National Hockey League
+  <programme start="20251008223000 +0000" stop="20251008233000 +0000" channel="NHL 01:">
+    <title>Overtime/Shootout If Necessary</title>
+  </programme>
+  <programme start="20251008183000 +0000" stop="20251008193000 +0000" channel="NHL 02:">
+    <title>Game Starting Soon: Boston Bruins vs Washington Capitals @ 7:30 PM</title>
+    <desc>Live NHL action</desc>
+  </programme>
+  <programme start="20251008193000 +0000" stop="20251008230000 +0000" channel="NHL 02:">
+    <title>Live: Boston Bruins vs Washington Capitals</title>
+    <desc>🏒 HOCKEY • NHL
 
-🏆 **Colorado Avalanche vs Los Angeles Kings**
+🏆 **Boston vs Washington**
 
 
-Live NHL hockey action between Colorado Avalanche and Los Angeles Kings.</desc>
-    <category>Sports</category>
+Hockey team
+Hockey team
+</desc>
+  </programme>
+  <programme start="20251008230000 +0000" stop="20251009000000 +0000" channel="NHL 02:">
+    <title>Overtime/Shootout If Necessary</title>
+  </programme>
+  <programme start="20251008210000 +0000" stop="20251008220000 +0000" channel="NHL 03:">
+    <title>Game Starting Soon: Los Angeles Kings vs Vegas Golden Knights @ 10:00 PM</title>
+    <desc>Live NHL action</desc>
+  </programme>
+  <programme start="20251008220000 +0000" stop="20251009013000 +0000" channel="NHL 03:">
+    <title>Live: Los Angeles Kings vs Vegas Golden Knights</title>
+    <desc>🏒 HOCKEY • NHL
+
+🏆 **Los Angeles vs Vegas**
+
+
+Hockey team
+Hockey team
+</desc>
+  </programme>
+  <programme start="20251009013000 +0000" stop="20251009023000 +0000" channel="NHL 03:">
+    <title>Overtime/Shootout If Necessary</title>
+  </programme>
+  <programme start="20251008210000 +0000" stop="20251008220000 +0000" channel="NHL 04:">
+    <title>Game Starting Soon: Calgary Flames vs Edmonton Oilers @ 10:00 PM</title>
+    <desc>Live NHL action</desc>
+  </programme>
+  <programme start="20251008220000 +0000" stop="20251009013000 +0000" channel="NHL 04:">
+    <title>Live: Calgary Flames vs Edmonton Oilers</title>
+    <desc>🏒 HOCKEY • NHL
+
+🏆 **Calgary vs Edmonton**
+
+
+Hockey team
+Hockey team
+</desc>
+  </programme>
+  <programme start="20251009013000 +0000" stop="20251009023000 +0000" channel="NHL 04:">
+    <title>Overtime/Shootout If Necessary</title>
   </programme>
 </tv>
