@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="NBA EPG Generator" generator-info-url="https://github.com">
+  <channel id="NBA 02:202510101900">
+    <display-name>NBA 02 - Oct 10</display-name>
+  </channel>
+  <channel id="NBA 03:202510101900">
+    <display-name>NBA 03 - Oct 10</display-name>
+  </channel>
+  <channel id="NBA 04:202510102000">
+    <display-name>NBA 04 - Oct 10</display-name>
+  </channel>
+  <channel id="NBA 05:202510102200">
+    <display-name>NBA 05 - Oct 10</display-name>
+  </channel>
+  <programme start="20251010223000 +0000" stop="20251010230000 +0000" channel="NBA 02:202510101900">
+    <title>Game Starting Soon: Toronto Raptors vs Boston Celtics @ 7:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251010230000 +0000" stop="20251011020000 +0000" channel="NBA 02:202510101900">
+    <title>Live: Toronto Raptors vs Boston Celtics</title>
+    <desc>🏀 NBA
+
+🏆 **Toronto Raptors vs Boston Celtics**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="NBA 02:202510101900">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251010223000 +0000" stop="20251010230000 +0000" channel="NBA 03:202510101900">
+    <title>Game Starting Soon: Philadelphia 76Ers vs Orlando Magic @ 7:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251010230000 +0000" stop="20251011020000 +0000" channel="NBA 03:202510101900">
+    <title>Live: Philadelphia 76Ers vs Orlando Magic</title>
+    <desc>🏀 NBA
+
+🏆 **Philadelphia 76Ers vs Orlando Magic**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="NBA 03:202510101900">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251010233000 +0000" stop="20251011000000 +0000" channel="NBA 04:202510102000">
+    <title>Game Starting Soon: San Antonio Spurs vs Utah Jazz @ 8:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251011000000 +0000" stop="20251011030000 +0000" channel="NBA 04:202510102000">
+    <title>Live: San Antonio Spurs vs Utah Jazz</title>
+    <desc>🏀 NBA
+
+🏆 **San Antonio Spurs vs Utah Jazz**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011030000 +0000" stop="20251011040000 +0000" channel="NBA 04:202510102000">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251011013000 +0000" stop="20251011020000 +0000" channel="NBA 05:202510102200">
+    <title>Game Starting Soon: Portland Trail Blazers vs Sacramento Kings @ 10:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251011020000 +0000" stop="20251011050000 +0000" channel="NBA 05:202510102200">
+    <title>Live: Portland Trail Blazers vs Sacramento Kings</title>
+    <desc>🏀 NBA
+
+🏆 **Portland Trail Blazers vs Sacramento Kings**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011050000 +0000" stop="20251011060000 +0000" channel="NBA 05:202510102200">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251010223000 +0000" stop="20251010230000 +0000" channel="NBA 02:202510101900">
+    <title>Game Starting Soon: Toronto Raptors vs Boston Celtics @ 7:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251010230000 +0000" stop="20251011020000 +0000" channel="NBA 02:202510101900">
+    <title>Live: Toronto Raptors vs Boston Celtics</title>
+    <desc>🏀 NBA
+
+🏆 **Toronto Raptors vs Boston Celtics**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="NBA 02:202510101900">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251010223000 +0000" stop="20251010230000 +0000" channel="NBA 03:202510101900">
+    <title>Game Starting Soon: Philadelphia 76Ers vs Orlando Magic @ 7:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251010230000 +0000" stop="20251011020000 +0000" channel="NBA 03:202510101900">
+    <title>Live: Philadelphia 76Ers vs Orlando Magic</title>
+    <desc>🏀 NBA
+
+🏆 **Philadelphia 76Ers vs Orlando Magic**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011020000 +0000" stop="20251011030000 +0000" channel="NBA 03:202510101900">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251010233000 +0000" stop="20251011000000 +0000" channel="NBA 04:202510102000">
+    <title>Game Starting Soon: San Antonio Spurs vs Utah Jazz @ 8:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251011000000 +0000" stop="20251011030000 +0000" channel="NBA 04:202510102000">
+    <title>Live: San Antonio Spurs vs Utah Jazz</title>
+    <desc>🏀 NBA
+
+🏆 **San Antonio Spurs vs Utah Jazz**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011030000 +0000" stop="20251011040000 +0000" channel="NBA 04:202510102000">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251011013000 +0000" stop="20251011020000 +0000" channel="NBA 05:202510102200">
+    <title>Game Starting Soon: Portland Trail Blazers vs Sacramento Kings @ 10:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251011020000 +0000" stop="20251011050000 +0000" channel="NBA 05:202510102200">
+    <title>Live: Portland Trail Blazers vs Sacramento Kings</title>
+    <desc>🏀 NBA
+
+🏆 **Portland Trail Blazers vs Sacramento Kings**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251011050000 +0000" stop="20251011060000 +0000" channel="NBA 05:202510102200">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+</tv>
