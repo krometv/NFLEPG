@@ -1,102 +1,147 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="NBA EPG Generator" generator-info-url="https://github.com">
-  <channel id="NBA 01:202510111900">
-    <display-name>NBA 01 - Oct 11</display-name>
+  <channel id="NBA 01 :">
+    <display-name>Oct 11 - Indiana Pacers vs Oklahoma City Thunder</display-name>
   </channel>
-  <channel id="NBA 02:202510112000">
-    <display-name>NBA 02 - Oct 11</display-name>
+  <channel id="NBA 02 :">
+    <display-name>Oct 11 - Memphis Grizzlies vs Atlanta Hawks</display-name>
   </channel>
-  <channel id="NBA 03:202510112030">
-    <display-name>NBA 03 - Oct 11</display-name>
+  <channel id="NBA 03 :">
+    <display-name>Oct 11 - Dallas Mavericks vs Charlotte Hornets</display-name>
   </channel>
-  <programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="NBA 01:202510111900">
+  <programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="NBA 01 :">
     <title>Game Starting Soon: Indiana Pacers vs Oklahoma City Thunder @ 7:00 PM</title>
     <desc>Live NBA action</desc>
   </programme>
-  <programme start="20251011230000 +0000" stop="20251012020000 +0000" channel="NBA 01:202510111900">
-    <title>Live: Indiana Pacers vs Oklahoma City Thunder</title>
+  <programme start="20251011230000 +0000" stop="20251012020000 +0000" channel="NBA 01 :">
+    <title>(Live) Indiana Pacers vs Oklahoma City Thunder</title>
     <desc>🏀 NBA
 
 🏆 **Indiana Pacers vs Oklahoma City Thunder**
 
 Live NBA action featuring an exciting matchup.</desc>
   </programme>
-  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="NBA 01:202510111900">
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="NBA 01 :">
     <title>Overtime If Necessary / Post-Game</title>
   </programme>
-  <programme start="20251011233000 +0000" stop="20251012000000 +0000" channel="NBA 02:202510112000">
+  <programme start="20251011233000 +0000" stop="20251012000000 +0000" channel="NBA 02 :">
     <title>Game Starting Soon: Memphis Grizzlies vs Atlanta Hawks @ 8:00 PM</title>
     <desc>Live NBA action</desc>
   </programme>
-  <programme start="20251012000000 +0000" stop="20251012030000 +0000" channel="NBA 02:202510112000">
-    <title>Live: Memphis Grizzlies vs Atlanta Hawks</title>
+  <programme start="20251012000000 +0000" stop="20251012030000 +0000" channel="NBA 02 :">
+    <title>(Live) Memphis Grizzlies vs Atlanta Hawks</title>
     <desc>🏀 NBA
 
 🏆 **Memphis Grizzlies vs Atlanta Hawks**
 
 Live NBA action featuring an exciting matchup.</desc>
   </programme>
-  <programme start="20251012030000 +0000" stop="20251012040000 +0000" channel="NBA 02:202510112000">
+  <programme start="20251012030000 +0000" stop="20251012040000 +0000" channel="NBA 02 :">
     <title>Overtime If Necessary / Post-Game</title>
   </programme>
-  <programme start="20251012000000 +0000" stop="20251012003000 +0000" channel="NBA 03:202510112030">
+  <programme start="20251012000000 +0000" stop="20251012003000 +0000" channel="NBA 03 :">
     <title>Game Starting Soon: Dallas Mavericks vs Charlotte Hornets @ 8:30 PM</title>
     <desc>Live NBA action</desc>
   </programme>
-  <programme start="20251012003000 +0000" stop="20251012033000 +0000" channel="NBA 03:202510112030">
-    <title>Live: Dallas Mavericks vs Charlotte Hornets</title>
+  <programme start="20251012003000 +0000" stop="20251012033000 +0000" channel="NBA 03 :">
+    <title>(Live) Dallas Mavericks vs Charlotte Hornets</title>
     <desc>🏀 NBA
 
 🏆 **Dallas Mavericks vs Charlotte Hornets**
 
 Live NBA action featuring an exciting matchup.</desc>
   </programme>
-  <programme start="20251012033000 +0000" stop="20251012043000 +0000" channel="NBA 03:202510112030">
+  <programme start="20251012033000 +0000" stop="20251012043000 +0000" channel="NBA 03 :">
     <title>Overtime If Necessary / Post-Game</title>
   </programme>
-  <programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="NBA 01:202510111900">
+  <programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="NBA 01 :">
     <title>Game Starting Soon: Indiana Pacers vs Oklahoma City Thunder @ 7:00 PM</title>
     <desc>Live NBA action</desc>
   </programme>
-  <programme start="20251011230000 +0000" stop="20251012020000 +0000" channel="NBA 01:202510111900">
-    <title>Live: Indiana Pacers vs Oklahoma City Thunder</title>
+  <programme start="20251011230000 +0000" stop="20251012020000 +0000" channel="NBA 01 :">
+    <title>(Live) Indiana Pacers vs Oklahoma City Thunder</title>
     <desc>🏀 NBA
 
 🏆 **Indiana Pacers vs Oklahoma City Thunder**
 
 Live NBA action featuring an exciting matchup.</desc>
   </programme>
-  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="NBA 01:202510111900">
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="NBA 01 :">
     <title>Overtime If Necessary / Post-Game</title>
   </programme>
-  <programme start="20251011233000 +0000" stop="20251012000000 +0000" channel="NBA 02:202510112000">
+  <programme start="20251011233000 +0000" stop="20251012000000 +0000" channel="NBA 02 :">
     <title>Game Starting Soon: Memphis Grizzlies vs Atlanta Hawks @ 8:00 PM</title>
     <desc>Live NBA action</desc>
   </programme>
-  <programme start="20251012000000 +0000" stop="20251012030000 +0000" channel="NBA 02:202510112000">
-    <title>Live: Memphis Grizzlies vs Atlanta Hawks</title>
+  <programme start="20251012000000 +0000" stop="20251012030000 +0000" channel="NBA 02 :">
+    <title>(Live) Memphis Grizzlies vs Atlanta Hawks</title>
     <desc>🏀 NBA
 
 🏆 **Memphis Grizzlies vs Atlanta Hawks**
 
 Live NBA action featuring an exciting matchup.</desc>
   </programme>
-  <programme start="20251012030000 +0000" stop="20251012040000 +0000" channel="NBA 02:202510112000">
+  <programme start="20251012030000 +0000" stop="20251012040000 +0000" channel="NBA 02 :">
     <title>Overtime If Necessary / Post-Game</title>
   </programme>
-  <programme start="20251012000000 +0000" stop="20251012003000 +0000" channel="NBA 03:202510112030">
+  <programme start="20251012000000 +0000" stop="20251012003000 +0000" channel="NBA 03 :">
     <title>Game Starting Soon: Dallas Mavericks vs Charlotte Hornets @ 8:30 PM</title>
     <desc>Live NBA action</desc>
   </programme>
-  <programme start="20251012003000 +0000" stop="20251012033000 +0000" channel="NBA 03:202510112030">
-    <title>Live: Dallas Mavericks vs Charlotte Hornets</title>
+  <programme start="20251012003000 +0000" stop="20251012033000 +0000" channel="NBA 03 :">
+    <title>(Live) Dallas Mavericks vs Charlotte Hornets</title>
     <desc>🏀 NBA
 
 🏆 **Dallas Mavericks vs Charlotte Hornets**
 
 Live NBA action featuring an exciting matchup.</desc>
   </programme>
-  <programme start="20251012033000 +0000" stop="20251012043000 +0000" channel="NBA 03:202510112030">
+  <programme start="20251012033000 +0000" stop="20251012043000 +0000" channel="NBA 03 :">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251011223000 +0000" stop="20251011230000 +0000" channel="NBA 01 :">
+    <title>Game Starting Soon: Indiana Pacers vs Oklahoma City Thunder @ 7:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251011230000 +0000" stop="20251012020000 +0000" channel="NBA 01 :">
+    <title>(Live) Indiana Pacers vs Oklahoma City Thunder</title>
+    <desc>🏀 NBA
+
+🏆 **Indiana Pacers vs Oklahoma City Thunder**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251012020000 +0000" stop="20251012030000 +0000" channel="NBA 01 :">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251011233000 +0000" stop="20251012000000 +0000" channel="NBA 02 :">
+    <title>Game Starting Soon: Memphis Grizzlies vs Atlanta Hawks @ 8:00 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251012000000 +0000" stop="20251012030000 +0000" channel="NBA 02 :">
+    <title>(Live) Memphis Grizzlies vs Atlanta Hawks</title>
+    <desc>🏀 NBA
+
+🏆 **Memphis Grizzlies vs Atlanta Hawks**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251012030000 +0000" stop="20251012040000 +0000" channel="NBA 02 :">
+    <title>Overtime If Necessary / Post-Game</title>
+  </programme>
+  <programme start="20251012000000 +0000" stop="20251012003000 +0000" channel="NBA 03 :">
+    <title>Game Starting Soon: Dallas Mavericks vs Charlotte Hornets @ 8:30 PM</title>
+    <desc>Live NBA action</desc>
+  </programme>
+  <programme start="20251012003000 +0000" stop="20251012033000 +0000" channel="NBA 03 :">
+    <title>(Live) Dallas Mavericks vs Charlotte Hornets</title>
+    <desc>🏀 NBA
+
+🏆 **Dallas Mavericks vs Charlotte Hornets**
+
+Live NBA action featuring an exciting matchup.</desc>
+  </programme>
+  <programme start="20251012033000 +0000" stop="20251012043000 +0000" channel="NBA 03 :">
     <title>Overtime If Necessary / Post-Game</title>
   </programme>
 </tv>
