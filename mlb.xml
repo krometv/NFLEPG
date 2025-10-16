@@ -90,15 +90,27 @@
 <channel id="MLB 30">
 <display-name>MLB 30</display-name>
 </channel>
-<programme start="20251016000800 +0000" stop="20251016010800 +0000" channel="MLB 01">
+<programme start="20251016220800 +0000" stop="20251016230800 +0000" channel="MLB 01">
+    <title>Pre-Game: Milwaukee Brewers vs Los Angeles Dodgers</title>
+    <desc>Game coverage unavailable.</desc>
+</programme>
+<programme start="20251016230800 +0000" stop="20251017023800 +0000" channel="MLB 01">
+    <title>LIVE: Milwaukee Brewers at Los Angeles Dodgers</title>
+    <desc>Game coverage unavailable.</desc>
+</programme>
+<programme start="20251017023800 +0000" stop="20251017033800 +0000" channel="MLB 01">
+    <title>Post-Game: Milwaukee Brewers vs Los Angeles Dodgers</title>
+    <desc>Post-game analysis and highlights from the Milwaukee Brewers at Los Angeles Dodgers MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
+</programme>
+<programme start="20251017003300 +0000" stop="20251017013300 +0000" channel="MLB 02">
     <title>Pre-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Game coverage unavailable.</desc>
 </programme>
-<programme start="20251016010800 +0000" stop="20251016043800 +0000" channel="MLB 01">
+<programme start="20251017013300 +0000" stop="20251017050300 +0000" channel="MLB 02">
     <title>LIVE: Toronto Blue Jays at Seattle Mariners</title>
     <desc>Game coverage unavailable.</desc>
 </programme>
-<programme start="20251016043800 +0000" stop="20251016053800 +0000" channel="MLB 01">
+<programme start="20251017050300 +0000" stop="20251017060300 +0000" channel="MLB 02">
     <title>Post-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Post-game analysis and highlights from the Toronto Blue Jays at Seattle Mariners MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
 </programme>
