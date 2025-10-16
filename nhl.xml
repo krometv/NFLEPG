@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="https://github.com/your-repo" source-info-name="NHL EPG">
+  <channel id="NHL01">
+    <display-name>NHL 01</display-name>
+  </channel>
+  <channel id="NHL02">
+    <display-name>NHL 02</display-name>
+  </channel>
+  <channel id="NHL03">
+    <display-name>NHL 03</display-name>
+  </channel>
+  <channel id="NHL04">
+    <display-name>NHL 04</display-name>
+  </channel>
+  <channel id="NHL05">
+    <display-name>NHL 05</display-name>
+  </channel>
+  <channel id="NHL06">
+    <display-name>NHL 06</display-name>
+  </channel>
+  <channel id="NHL07">
+    <display-name>NHL 07</display-name>
+  </channel>
+  <channel id="NHL08">
+    <display-name>NHL 08</display-name>
+  </channel>
+  <channel id="NHL09">
+    <display-name>NHL 09</display-name>
+  </channel>
+  <channel id="NHL10">
+    <display-name>NHL 10</display-name>
+  </channel>
+  <channel id="NHL11">
+    <display-name>NHL 11</display-name>
+  </channel>
+  <channel id="NHL12">
+    <display-name>NHL 12</display-name>
+  </channel>
+  <channel id="NHL13">
+    <display-name>NHL 13</display-name>
+  </channel>
+  <channel id="NHL14">
+    <display-name>NHL 14</display-name>
+  </channel>
+  <channel id="NHL15">
+    <display-name>NHL 15</display-name>
+  </channel>
+  <channel id="NHL16">
+    <display-name>NHL 16</display-name>
+  </channel>
+  <channel id="NHL17">
+    <display-name>NHL 17</display-name>
+  </channel>
+  <channel id="NHL18">
+    <display-name>NHL 18</display-name>
+  </channel>
+  <channel id="NHL19">
+    <display-name>NHL 19</display-name>
+  </channel>
+  <channel id="NHL20">
+    <display-name>NHL 20</display-name>
+  </channel>
+  <channel id="NHL21">
+    <display-name>NHL 21</display-name>
+  </channel>
+  <channel id="NHL22">
+    <display-name>NHL 22</display-name>
+  </channel>
+  <channel id="NHL23">
+    <display-name>NHL 23</display-name>
+  </channel>
+  <channel id="NHL24">
+    <display-name>NHL 24</display-name>
+  </channel>
+  <channel id="NHL25">
+    <display-name>NHL 25</display-name>
+  </channel>
+  <channel id="NHL26">
+    <display-name>NHL 26</display-name>
+  </channel>
+  <channel id="NHL27">
+    <display-name>NHL 27</display-name>
+  </channel>
+  <channel id="NHL28">
+    <display-name>NHL 28</display-name>
+  </channel>
+  <channel id="NHL29">
+    <display-name>NHL 29</display-name>
+  </channel>
+  <channel id="NHL30">
+    <display-name>NHL 30</display-name>
+  </channel>
+  <programme start="20251016215500 +0000" stop="20251016225500 +0000" channel="NHL03">
+    <title>Pre-Game: Kraken vs Senators</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016225500 +0000" stop="20251017015500 +0000" channel="NHL03">
+    <title>[Live] Kraken at Senators - 6:55 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017015500 +0000" stop="20251017025500 +0000" channel="NHL03">
+    <title>Post-Game: Kraken vs Senators</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016215500 +0000" stop="20251016225500 +0000" channel="NHL04">
+    <title>Pre-Game: Rangers vs Maple Leafs</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016225500 +0000" stop="20251017015500 +0000" channel="NHL04">
+    <title>[Live] Rangers at Maple Leafs - 6:55 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017015500 +0000" stop="20251017025500 +0000" channel="NHL04">
+    <title>Post-Game: Rangers vs Maple Leafs</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016215500 +0000" stop="20251016225500 +0000" channel="NHL05">
+    <title>Pre-Game: Panthers vs Devils</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016225500 +0000" stop="20251017015500 +0000" channel="NHL05">
+    <title>[Live] Panthers at Devils - 6:55 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017015500 +0000" stop="20251017025500 +0000" channel="NHL05">
+    <title>Post-Game: Panthers vs Devils</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+</tv>
