@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="MLB 01">
+<display-name>MLB 01</display-name>
+</channel>
+<channel id="MLB 02">
+<display-name>MLB 02</display-name>
+</channel>
+<channel id="MLB 03">
+<display-name>MLB 03</display-name>
+</channel>
+<channel id="MLB 04">
+<display-name>MLB 04</display-name>
+</channel>
+<channel id="MLB 05">
+<display-name>MLB 05</display-name>
+</channel>
+<channel id="MLB 06">
+<display-name>MLB 06</display-name>
+</channel>
+<channel id="MLB 07">
+<display-name>MLB 07</display-name>
+</channel>
+<channel id="MLB 08">
+<display-name>MLB 08</display-name>
+</channel>
+<channel id="MLB 09">
+<display-name>MLB 09</display-name>
+</channel>
+<channel id="MLB 10">
+<display-name>MLB 10</display-name>
+</channel>
+<channel id="MLB 11">
+<display-name>MLB 11</display-name>
+</channel>
+<channel id="MLB 12">
+<display-name>MLB 12</display-name>
+</channel>
+<channel id="MLB 13">
+<display-name>MLB 13</display-name>
+</channel>
+<channel id="MLB 14">
+<display-name>MLB 14</display-name>
+</channel>
+<channel id="MLB 15">
+<display-name>MLB 15</display-name>
+</channel>
+<channel id="MLB 16">
+<display-name>MLB 16</display-name>
+</channel>
+<channel id="MLB 17">
+<display-name>MLB 17</display-name>
+</channel>
+<channel id="MLB 18">
+<display-name>MLB 18</display-name>
+</channel>
+<channel id="MLB 19">
+<display-name>MLB 19</display-name>
+</channel>
+<channel id="MLB 20">
+<display-name>MLB 20</display-name>
+</channel>
+<channel id="MLB 21">
+<display-name>MLB 21</display-name>
+</channel>
+<channel id="MLB 22">
+<display-name>MLB 22</display-name>
+</channel>
+<channel id="MLB 23">
+<display-name>MLB 23</display-name>
+</channel>
+<channel id="MLB 24">
+<display-name>MLB 24</display-name>
+</channel>
+<channel id="MLB 25">
+<display-name>MLB 25</display-name>
+</channel>
+<channel id="MLB 26">
+<display-name>MLB 26</display-name>
+</channel>
+<channel id="MLB 27">
+<display-name>MLB 27</display-name>
+</channel>
+<channel id="MLB 28">
+<display-name>MLB 28</display-name>
+</channel>
+<channel id="MLB 29">
+<display-name>MLB 29</display-name>
+</channel>
+<channel id="MLB 30">
+<display-name>MLB 30</display-name>
+</channel>
+<programme start="20151001190800 +0000" stop="20151001200800 +0000" channel="MLB 01">
+    <title>Pre-Game: Toronto Blue Jays vs Seattle Mariners</title>
+    <desc>Game coverage unavailable.</desc>
+</programme>
+<programme start="20151001200800 +0000" stop="20151001233800 +0000" channel="MLB 01">
+    <title>LIVE: Toronto Blue Jays at Seattle Mariners</title>
+    <desc>Game coverage unavailable.</desc>
+</programme>
+<programme start="20151001233800 +0000" stop="20151002003800 +0000" channel="MLB 01">
+    <title>Post-Game: Toronto Blue Jays vs Seattle Mariners</title>
+    <desc>Post-game analysis and highlights from the Toronto Blue Jays at Seattle Mariners MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
+</programme>
+</tv>
