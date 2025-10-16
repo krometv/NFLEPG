@@ -102,4 +102,16 @@
     <title>Post-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Post-game analysis and highlights from the Toronto Blue Jays at Seattle Mariners MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
 </programme>
+<programme start="20251016000800 +0000" stop="20251016010800 +0000" channel="MLB 01">
+    <title>Pre-Game: Toronto Blue Jays vs Seattle Mariners</title>
+    <desc>Game coverage unavailable.</desc>
+</programme>
+<programme start="20251016010800 +0000" stop="20251016043800 +0000" channel="MLB 01">
+    <title>LIVE: Toronto Blue Jays at Seattle Mariners</title>
+    <desc>Game coverage unavailable.</desc>
+</programme>
+<programme start="20251016043800 +0000" stop="20251016053800 +0000" channel="MLB 01">
+    <title>Post-Game: Toronto Blue Jays vs Seattle Mariners</title>
+    <desc>Post-game analysis and highlights from the Toronto Blue Jays at Seattle Mariners MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
+</programme>
 </tv>
