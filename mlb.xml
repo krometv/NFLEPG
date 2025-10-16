@@ -90,15 +90,15 @@
 <channel id="MLB 30">
 <display-name>MLB 30</display-name>
 </channel>
-<programme start="20151001190800 +0000" stop="20151001200800 +0000" channel="MLB 01">
+<programme start="20151001230800 +0000" stop="20151002000800 +0000" channel="MLB 01">
     <title>Pre-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Game coverage unavailable.</desc>
 </programme>
-<programme start="20151001200800 +0000" stop="20151001233800 +0000" channel="MLB 01">
+<programme start="20151002000800 +0000" stop="20151002033800 +0000" channel="MLB 01">
     <title>LIVE: Toronto Blue Jays at Seattle Mariners</title>
     <desc>Game coverage unavailable.</desc>
 </programme>
-<programme start="20151001233800 +0000" stop="20151002003800 +0000" channel="MLB 01">
+<programme start="20151002033800 +0000" stop="20151002043800 +0000" channel="MLB 01">
     <title>Post-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Post-game analysis and highlights from the Toronto Blue Jays at Seattle Mariners MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
 </programme>
