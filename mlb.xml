@@ -91,34 +91,34 @@
   <channel id="MLB30">
     <display-name>MLB 30</display-name>
   </channel>
-  <programme start="20251016210800 +0000" stop="20251016220800 +0000" channel="MLB01">
-    <title>Pre-Game: Milwaukee Brewers vs Los Angeles Dodgers</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016220800 +0000" stop="20251017013800 +0000" channel="MLB01">
-    <title>[Live] Milwaukee Brewers at Los Angeles Dodgers - 6:08 PM ET (22:08 UTC)</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251017013800 +0000" stop="20251017023800 +0000" channel="MLB01">
-    <title>Post-Game: Milwaukee Brewers vs Los Angeles Dodgers</title>
-    <desc>Post-game analysis and highlights from the Milwaukee Brewers at Los Angeles Dodgers MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016233300 +0000" stop="20251017003300 +0000" channel="MLB02">
+  <programme start="20251017210800 +0000" stop="20251017220800 +0000" channel="MLB01">
     <title>Pre-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251017003300 +0000" stop="20251017040300 +0000" channel="MLB02">
-    <title>[Live] Toronto Blue Jays at Seattle Mariners - 8:33 PM ET</title>
+  <programme start="20251017220800 +0000" stop="20251018013800 +0000" channel="MLB01">
+    <title>[Live] Toronto Blue Jays at Seattle Mariners - 6:08 PM ET</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251017040300 +0000" stop="20251017050300 +0000" channel="MLB02">
+  <programme start="20251018013800 +0000" stop="20251018023800 +0000" channel="MLB01">
     <title>Post-Game: Toronto Blue Jays vs Seattle Mariners</title>
     <desc>Post-game analysis and highlights from the Toronto Blue Jays at Seattle Mariners MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017233800 +0000" stop="20251018003800 +0000" channel="MLB02">
+    <title>Pre-Game: Milwaukee Brewers vs Los Angeles Dodgers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018003800 +0000" stop="20251018040800 +0000" channel="MLB02">
+    <title>[Live] Milwaukee Brewers at Los Angeles Dodgers - 8:38 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018040800 +0000" stop="20251018050800 +0000" channel="MLB02">
+    <title>Post-Game: Milwaukee Brewers vs Los Angeles Dodgers</title>
+    <desc>Post-game analysis and highlights from the Milwaukee Brewers at Los Angeles Dodgers MLB game. Stay tuned for player interviews and expert breakdowns.</desc>
     <category>Sports</category>
   </programme>
 </tv>
