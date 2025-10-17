@@ -91,49 +91,5 @@
   <channel id="NHL30">
     <display-name>NHL 30</display-name>
   </channel>
-  <programme start="20251016215500 +0000" stop="20251016225500 +0000" channel="NHL03">
-    <title>Pre-Game: Kraken vs Senators</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016225500 +0000" stop="20251017015500 +0000" channel="NHL03">
-    <title>[Live] Kraken at Senators - 6:55 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251017015500 +0000" stop="20251017025500 +0000" channel="NHL03">
-    <title>Post-Game: Kraken vs Senators</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016215500 +0000" stop="20251016225500 +0000" channel="NHL04">
-    <title>Pre-Game: Rangers vs Maple Leafs</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016225500 +0000" stop="20251017015500 +0000" channel="NHL04">
-    <title>[Live] Rangers at Maple Leafs - 6:55 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251017015500 +0000" stop="20251017025500 +0000" channel="NHL04">
-    <title>Post-Game: Rangers vs Maple Leafs</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016215500 +0000" stop="20251016225500 +0000" channel="NHL05">
-    <title>Pre-Game: Panthers vs Devils</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251016225500 +0000" stop="20251017015500 +0000" channel="NHL05">
-    <title>[Live] Panthers at Devils - 6:55 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251017015500 +0000" stop="20251017025500 +0000" channel="NHL05">
-    <title>Post-Game: Panthers vs Devils</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
+
 </tv>
