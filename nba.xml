@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="https://github.com/your-repo" source-info-name="NBA EPG">
+  <channel id="NBA01">
+    <display-name>NBA 01</display-name>
+  </channel>
+  <channel id="NBA02">
+    <display-name>NBA 02</display-name>
+  </channel>
+  <channel id="NBA03">
+    <display-name>NBA 03</display-name>
+  </channel>
+  <channel id="NBA04">
+    <display-name>NBA 04</display-name>
+  </channel>
+  <channel id="NBA05">
+    <display-name>NBA 05</display-name>
+  </channel>
+  <channel id="NBA06">
+    <display-name>NBA 06</display-name>
+  </channel>
+  <channel id="NBA07">
+    <display-name>NBA 07</display-name>
+  </channel>
+  <channel id="NBA08">
+    <display-name>NBA 08</display-name>
+  </channel>
+  <channel id="NBA09">
+    <display-name>NBA 09</display-name>
+  </channel>
+  <channel id="NBA10">
+    <display-name>NBA 10</display-name>
+  </channel>
+  <channel id="NBA11">
+    <display-name>NBA 11</display-name>
+  </channel>
+  <channel id="NBA12">
+    <display-name>NBA 12</display-name>
+  </channel>
+  <channel id="NBA13">
+    <display-name>NBA 13</display-name>
+  </channel>
+  <channel id="NBA14">
+    <display-name>NBA 14</display-name>
+  </channel>
+  <channel id="NBA15">
+    <display-name>NBA 15</display-name>
+  </channel>
+  <channel id="NBA16">
+    <display-name>NBA 16</display-name>
+  </channel>
+  <channel id="NBA17">
+    <display-name>NBA 17</display-name>
+  </channel>
+  <channel id="NBA18">
+    <display-name>NBA 18</display-name>
+  </channel>
+  <channel id="NBA19">
+    <display-name>NBA 19</display-name>
+  </channel>
+  <channel id="NBA20">
+    <display-name>NBA 20</display-name>
+  </channel>
+  <channel id="NBA21">
+    <display-name>NBA 21</display-name>
+  </channel>
+  <channel id="NBA22">
+    <display-name>NBA 22</display-name>
+  </channel>
+  <channel id="NBA23">
+    <display-name>NBA 23</display-name>
+  </channel>
+  <channel id="NBA24">
+    <display-name>NBA 24</display-name>
+  </channel>
+  <channel id="NBA25">
+    <display-name>NBA 25</display-name>
+  </channel>
+  <channel id="NBA26">
+    <display-name>NBA 26</display-name>
+  </channel>
+  <channel id="NBA27">
+    <display-name>NBA 27</display-name>
+  </channel>
+  <channel id="NBA28">
+    <display-name>NBA 28</display-name>
+  </channel>
+  <channel id="NBA29">
+    <display-name>NBA 29</display-name>
+  </channel>
+  <channel id="NBA30">
+    <display-name>NBA 30</display-name>
+  </channel>
+  <programme start="20251016220000 +0000" stop="20251016230000 +0000" channel="NBA01">
+    <title>Pre-Game: Washington Wizards vs Detroit Pistons</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016230000 +0000" stop="20251017013000 +0000" channel="NBA01">
+    <title>[Live] Washington Wizards at Detroit Pistons - 7:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017013000 +0000" stop="20251017023000 +0000" channel="NBA01">
+    <title>Post-Game: Washington Wizards vs Detroit Pistons</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016220000 +0000" stop="20251016230000 +0000" channel="NBA02">
+    <title>Pre-Game: New Orleans Pelicans vs Orlando Magic</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016230000 +0000" stop="20251017013000 +0000" channel="NBA02">
+    <title>[Live] New Orleans Pelicans at Orlando Magic - 7:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017013000 +0000" stop="20251017023000 +0000" channel="NBA02">
+    <title>Post-Game: New Orleans Pelicans vs Orlando Magic</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016223000 +0000" stop="20251016233000 +0000" channel="NBA03">
+    <title>Pre-Game: Houston Rockets vs Atlanta Hawks</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016233000 +0000" stop="20251017020000 +0000" channel="NBA03">
+    <title>[Live] Houston Rockets at Atlanta Hawks - 7:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017020000 +0000" stop="20251017030000 +0000" channel="NBA03">
+    <title>Post-Game: Houston Rockets vs Atlanta Hawks</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251016230000 +0000" stop="20251017000000 +0000" channel="NBA04">
+    <title>Pre-Game: Minnesota Timberwolves vs Chicago Bulls</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017000000 +0000" stop="20251017023000 +0000" channel="NBA04">
+    <title>[Live] Minnesota Timberwolves at Chicago Bulls - 8:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017023000 +0000" stop="20251017033000 +0000" channel="NBA04">
+    <title>Post-Game: Minnesota Timberwolves vs Chicago Bulls</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017000000 +0000" stop="20251017010000 +0000" channel="NBA05">
+    <title>Pre-Game: Portland Trail Blazers vs Utah Jazz</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017010000 +0000" stop="20251017033000 +0000" channel="NBA05">
+    <title>[Live] Portland Trail Blazers at Utah Jazz - 9:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251017033000 +0000" stop="20251017043000 +0000" channel="NBA05">
+    <title>Post-Game: Portland Trail Blazers vs Utah Jazz</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+</tv>
