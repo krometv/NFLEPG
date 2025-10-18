@@ -362,603 +362,723 @@
     <display-name>NCAAF 120</display-name>
   </channel>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF01">
-    <title>Pre-Game: #10 LSU Tigers vs #17 Vanderbilt Commodores</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #10 LSU Tigers vs #17 Vanderbilt Commodores</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF01">
-    <title>ᴸᶦᵛᵉ #10 LSU Tigers at #17 Vanderbilt Commodores - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #10 LSU Tigers at #17 Vanderbilt Commodores - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF01">
-    <title>Post-Game: #10 LSU Tigers vs #17 Vanderbilt Commodores</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #10 LSU Tigers vs #17 Vanderbilt Commodores</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF02">
-    <title>Pre-Game: Central Michigan Chippewas vs Bowling Green Falcons</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Central Michigan Chippewas vs Bowling Green Falcons</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF02">
-    <title>ᴸᶦᵛᵉ Central Michigan Chippewas at Bowling Green Falcons - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Central Michigan Chippewas at Bowling Green Falcons - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF02">
-    <title>Post-Game: Central Michigan Chippewas vs Bowling Green Falcons</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Central Michigan Chippewas vs Bowling Green Falcons</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF03">
-    <title>Pre-Game: #12 Georgia Tech Yellow Jackets vs Duke Blue Devils</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #12 Georgia Tech Yellow Jackets vs Duke Blue Devils</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF03">
-    <title>ᴸᶦᵛᵉ #12 Georgia Tech Yellow Jackets at Duke Blue Devils - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #12 Georgia Tech Yellow Jackets at Duke Blue Devils - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF03">
-    <title>Post-Game: #12 Georgia Tech Yellow Jackets vs Duke Blue Devils</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #12 Georgia Tech Yellow Jackets vs Duke Blue Devils</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF04">
-    <title>Pre-Game: Eastern Michigan Eagles vs Miami (OH) RedHawks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Eastern Michigan Eagles vs Miami (OH) RedHawks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF04">
-    <title>ᴸᶦᵛᵉ Eastern Michigan Eagles at Miami (OH) RedHawks - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Eastern Michigan Eagles at Miami (OH) RedHawks - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF04">
-    <title>Post-Game: Eastern Michigan Eagles vs Miami (OH) RedHawks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Eastern Michigan Eagles vs Miami (OH) RedHawks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF05">
-    <title>Pre-Game: Army Black Knights vs Tulane Green Wave</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Army Black Knights vs Tulane Green Wave</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF05">
-    <title>ᴸᶦᵛᵉ Army Black Knights at Tulane Green Wave - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Army Black Knights at Tulane Green Wave - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF05">
-    <title>Post-Game: Army Black Knights vs Tulane Green Wave</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Army Black Knights vs Tulane Green Wave</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF06">
-    <title>Pre-Game: Arizona Wildcats vs Houston Cougars</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Arizona Wildcats vs Houston Cougars</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF06">
-    <title>ᴸᶦᵛᵉ Arizona Wildcats at Houston Cougars - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Arizona Wildcats at Houston Cougars - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF06">
-    <title>Post-Game: Arizona Wildcats vs Houston Cougars</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Arizona Wildcats vs Houston Cougars</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF07">
-    <title>Pre-Game: Washington Huskies vs Michigan Wolverines</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Washington Huskies vs Michigan Wolverines</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF07">
-    <title>ᴸᶦᵛᵉ Washington Huskies at Michigan Wolverines - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Washington Huskies at Michigan Wolverines - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF07">
-    <title>Post-Game: Washington Huskies vs Michigan Wolverines</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Washington Huskies vs Michigan Wolverines</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF08">
-    <title>Pre-Game: UConn Huskies vs Boston College Eagles</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: UConn Huskies vs Boston College Eagles</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF08">
-    <title>ᴸᶦᵛᵉ UConn Huskies at Boston College Eagles - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ UConn Huskies at Boston College Eagles - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF08">
-    <title>Post-Game: UConn Huskies vs Boston College Eagles</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: UConn Huskies vs Boston College Eagles</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF09">
-    <title>Pre-Game: Baylor Bears vs TCU Horned Frogs</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Baylor Bears vs TCU Horned Frogs</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF09">
-    <title>ᴸᶦᵛᵉ Baylor Bears at TCU Horned Frogs - 12:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Baylor Bears at TCU Horned Frogs - 12:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF09">
-    <title>Post-Game: Baylor Bears vs TCU Horned Frogs</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Baylor Bears vs TCU Horned Frogs</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018151500 +0000" stop="20251018164500 +0000" channel="NCAAF10">
-    <title>Pre-Game: #14 Oklahoma Sooners vs South Carolina Gamecocks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #14 Oklahoma Sooners vs South Carolina Gamecocks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018164500 +0000" stop="20251018201500 +0000" channel="NCAAF10">
-    <title>ᴸᶦᵛᵉ #14 Oklahoma Sooners at South Carolina Gamecocks - 12:45 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #14 Oklahoma Sooners at South Carolina Gamecocks - 12:45 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018201500 +0000" stop="20251018211500 +0000" channel="NCAAF10">
-    <title>Post-Game: #14 Oklahoma Sooners vs South Carolina Gamecocks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #14 Oklahoma Sooners vs South Carolina Gamecocks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018153000 +0000" stop="20251018170000 +0000" channel="NCAAF11">
-    <title>Pre-Game: West Virginia Mountaineers vs UCF Knights</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: West Virginia Mountaineers vs UCF Knights</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018170000 +0000" stop="20251018203000 +0000" channel="NCAAF11">
-    <title>ᴸᶦᵛᵉ West Virginia Mountaineers at UCF Knights - 1:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ West Virginia Mountaineers at UCF Knights - 1:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018203000 +0000" stop="20251018213000 +0000" channel="NCAAF11">
-    <title>Post-Game: West Virginia Mountaineers vs UCF Knights</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: West Virginia Mountaineers vs UCF Knights</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018163000 +0000" stop="20251018180000 +0000" channel="NCAAF12">
-    <title>Pre-Game: Kent State Golden Flashes vs Toledo Rockets</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Kent State Golden Flashes vs Toledo Rockets</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018213000 +0000" channel="NCAAF12">
-    <title>ᴸᶦᵛᵉ Kent State Golden Flashes at Toledo Rockets - 2:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Kent State Golden Flashes at Toledo Rockets - 2:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018213000 +0000" stop="20251018223000 +0000" channel="NCAAF12">
-    <title>Post-Game: Kent State Golden Flashes vs Toledo Rockets</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Kent State Golden Flashes vs Toledo Rockets</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018170000 +0000" stop="20251018183000 +0000" channel="NCAAF13">
-    <title>Pre-Game: Buffalo Bulls vs Massachusetts Minutemen</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Buffalo Bulls vs Massachusetts Minutemen</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018183000 +0000" stop="20251018220000 +0000" channel="NCAAF13">
-    <title>ᴸᶦᵛᵉ Buffalo Bulls at Massachusetts Minutemen - 2:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Buffalo Bulls at Massachusetts Minutemen - 2:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018220000 +0000" stop="20251018230000 +0000" channel="NCAAF13">
-    <title>Post-Game: Buffalo Bulls vs Massachusetts Minutemen</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Buffalo Bulls vs Massachusetts Minutemen</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018173000 +0000" stop="20251018190000 +0000" channel="NCAAF14">
-    <title>Pre-Game: Purdue Boilermakers vs Northwestern Wildcats</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Purdue Boilermakers vs Northwestern Wildcats</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018190000 +0000" stop="20251018223000 +0000" channel="NCAAF14">
-    <title>ᴸᶦᵛᵉ Purdue Boilermakers at Northwestern Wildcats - 3:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Purdue Boilermakers at Northwestern Wildcats - 3:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018223000 +0000" stop="20251018233000 +0000" channel="NCAAF14">
-    <title>Post-Game: Purdue Boilermakers vs Northwestern Wildcats</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Purdue Boilermakers vs Northwestern Wildcats</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018173000 +0000" stop="20251018190000 +0000" channel="NCAAF15">
-    <title>Pre-Game: Troy Trojans vs UL Monroe Warhawks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Troy Trojans vs UL Monroe Warhawks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018190000 +0000" stop="20251018223000 +0000" channel="NCAAF15">
-    <title>ᴸᶦᵛᵉ Troy Trojans at UL Monroe Warhawks - 3:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Troy Trojans at UL Monroe Warhawks - 3:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018223000 +0000" stop="20251018233000 +0000" channel="NCAAF15">
-    <title>Post-Game: Troy Trojans vs UL Monroe Warhawks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Troy Trojans vs UL Monroe Warhawks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF16">
-    <title>Pre-Game: Texas State Bobcats vs Marshall Thundering Herd</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Texas State Bobcats vs Marshall Thundering Herd</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF16">
-    <title>ᴸᶦᵛᵉ Texas State Bobcats at Marshall Thundering Herd - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Texas State Bobcats at Marshall Thundering Herd - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF16">
-    <title>Post-Game: Texas State Bobcats vs Marshall Thundering Herd</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Texas State Bobcats vs Marshall Thundering Herd</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF17">
-    <title>Pre-Game: Old Dominion Monarchs vs James Madison Dukes</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Old Dominion Monarchs vs James Madison Dukes</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF17">
-    <title>ᴸᶦᵛᵉ Old Dominion Monarchs at James Madison Dukes - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Old Dominion Monarchs at James Madison Dukes - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF17">
-    <title>Post-Game: Old Dominion Monarchs vs James Madison Dukes</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Old Dominion Monarchs vs James Madison Dukes</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF18">
-    <title>Pre-Game: Temple Owls vs Charlotte 49ers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Temple Owls vs Charlotte 49ers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF18">
-    <title>ᴸᶦᵛᵉ Temple Owls at Charlotte 49ers - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Temple Owls at Charlotte 49ers - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF18">
-    <title>Post-Game: Temple Owls vs Charlotte 49ers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Temple Owls vs Charlotte 49ers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF19">
-    <title>Pre-Game: Akron Zips vs Ball State Cardinals</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Akron Zips vs Ball State Cardinals</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF19">
-    <title>ᴸᶦᵛᵉ Akron Zips at Ball State Cardinals - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Akron Zips at Ball State Cardinals - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF19">
-    <title>Post-Game: Akron Zips vs Ball State Cardinals</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Akron Zips vs Ball State Cardinals</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF20">
-    <title>Pre-Game: Coastal Carolina Chanticleers vs App State Mountaineers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Coastal Carolina Chanticleers vs App State Mountaineers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF20">
-    <title>ᴸᶦᵛᵉ Coastal Carolina Chanticleers at App State Mountaineers - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Coastal Carolina Chanticleers at App State Mountaineers - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF20">
-    <title>Post-Game: Coastal Carolina Chanticleers vs App State Mountaineers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Coastal Carolina Chanticleers vs App State Mountaineers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF21">
-    <title>Pre-Game: UNLV Rebels vs Boise State Broncos</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: UNLV Rebels vs Boise State Broncos</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF21">
-    <title>ᴸᶦᵛᵉ UNLV Rebels at Boise State Broncos - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ UNLV Rebels at Boise State Broncos - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF21">
-    <title>Post-Game: UNLV Rebels vs Boise State Broncos</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: UNLV Rebels vs Boise State Broncos</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF22">
-    <title>Pre-Game: UTSA Roadrunners vs North Texas Mean Green</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: UTSA Roadrunners vs North Texas Mean Green</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF22">
-    <title>ᴸᶦᵛᵉ UTSA Roadrunners at North Texas Mean Green - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ UTSA Roadrunners at North Texas Mean Green - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF22">
-    <title>Post-Game: UTSA Roadrunners vs North Texas Mean Green</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: UTSA Roadrunners vs North Texas Mean Green</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF23">
-    <title>Pre-Game: SMU Mustangs vs Clemson Tigers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: SMU Mustangs vs Clemson Tigers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF23">
-    <title>ᴸᶦᵛᵉ SMU Mustangs at Clemson Tigers - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ SMU Mustangs at Clemson Tigers - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF23">
-    <title>Post-Game: SMU Mustangs vs Clemson Tigers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: SMU Mustangs vs Clemson Tigers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF24">
-    <title>Pre-Game: #4 Texas A&M Aggies vs Arkansas Razorbacks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #4 Texas A&M Aggies vs Arkansas Razorbacks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF24">
-    <title>ᴸᶦᵛᵉ #4 Texas A&M Aggies at Arkansas Razorbacks - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #4 Texas A&M Aggies at Arkansas Razorbacks - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF24">
-    <title>Post-Game: #4 Texas A&M Aggies vs Arkansas Razorbacks</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #4 Texas A&M Aggies vs Arkansas Razorbacks</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF25">
-    <title>Pre-Game: Michigan State Spartans vs #3 Indiana Hoosiers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Michigan State Spartans vs #3 Indiana Hoosiers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF25">
-    <title>ᴸᶦᵛᵉ Michigan State Spartans at #3 Indiana Hoosiers - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Michigan State Spartans at #3 Indiana Hoosiers - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF25">
-    <title>Post-Game: Michigan State Spartans vs #3 Indiana Hoosiers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Michigan State Spartans vs #3 Indiana Hoosiers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF26">
-    <title>Pre-Game: #1 Ohio State Buckeyes vs Wisconsin Badgers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #1 Ohio State Buckeyes vs Wisconsin Badgers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF26">
-    <title>ᴸᶦᵛᵉ #1 Ohio State Buckeyes at Wisconsin Badgers - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #1 Ohio State Buckeyes at Wisconsin Badgers - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF26">
-    <title>Post-Game: #1 Ohio State Buckeyes vs Wisconsin Badgers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #1 Ohio State Buckeyes vs Wisconsin Badgers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF27">
-    <title>Pre-Game: Wyoming Cowboys vs Air Force Falcons</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Wyoming Cowboys vs Air Force Falcons</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF27">
-    <title>ᴸᶦᵛᵉ Wyoming Cowboys at Air Force Falcons - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Wyoming Cowboys at Air Force Falcons - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF27">
-    <title>Post-Game: Wyoming Cowboys vs Air Force Falcons</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Wyoming Cowboys vs Air Force Falcons</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF28">
-    <title>Pre-Game: Northern Illinois Huskies vs Ohio Bobcats</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Northern Illinois Huskies vs Ohio Bobcats</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF28">
-    <title>ᴸᶦᵛᵉ Northern Illinois Huskies at Ohio Bobcats - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Northern Illinois Huskies at Ohio Bobcats - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF28">
-    <title>Post-Game: Northern Illinois Huskies vs Ohio Bobcats</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Northern Illinois Huskies vs Ohio Bobcats</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF29">
-    <title>Pre-Game: #5 Ole Miss Rebels vs #9 Georgia Bulldogs</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #5 Ole Miss Rebels vs #9 Georgia Bulldogs</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF29">
-    <title>ᴸᶦᵛᵉ #5 Ole Miss Rebels at #9 Georgia Bulldogs - 3:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #5 Ole Miss Rebels at #9 Georgia Bulldogs - 3:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF29">
-    <title>Post-Game: #5 Ole Miss Rebels vs #9 Georgia Bulldogs</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #5 Ole Miss Rebels vs #9 Georgia Bulldogs</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018183000 +0000" stop="20251018200000 +0000" channel="NCAAF30">
-    <title>Pre-Game: #22 Memphis Tigers vs UAB Blazers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #22 Memphis Tigers vs UAB Blazers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018200000 +0000" stop="20251018233000 +0000" channel="NCAAF30">
-    <title>ᴸᶦᵛᵉ #22 Memphis Tigers at UAB Blazers - 4:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #22 Memphis Tigers at UAB Blazers - 4:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018233000 +0000" stop="20251019003000 +0000" channel="NCAAF30">
-    <title>Post-Game: #22 Memphis Tigers vs UAB Blazers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #22 Memphis Tigers vs UAB Blazers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018183000 +0000" stop="20251018200000 +0000" channel="NCAAF31">
-    <title>Pre-Game: #7 Texas Tech Red Raiders vs Arizona State Sun Devils</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #7 Texas Tech Red Raiders vs Arizona State Sun Devils</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018200000 +0000" stop="20251018233000 +0000" channel="NCAAF31">
-    <title>ᴸᶦᵛᵉ #7 Texas Tech Red Raiders at Arizona State Sun Devils - 4:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #7 Texas Tech Red Raiders at Arizona State Sun Devils - 4:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018233000 +0000" stop="20251019003000 +0000" channel="NCAAF31">
-    <title>Post-Game: #7 Texas Tech Red Raiders vs Arizona State Sun Devils</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #7 Texas Tech Red Raiders vs Arizona State Sun Devils</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018184500 +0000" stop="20251018201500 +0000" channel="NCAAF32">
-    <title>Pre-Game: Mississippi State Bulldogs vs Florida Gators</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Mississippi State Bulldogs vs Florida Gators</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018201500 +0000" stop="20251018234500 +0000" channel="NCAAF32">
-    <title>ᴸᶦᵛᵉ Mississippi State Bulldogs at Florida Gators - 4:15 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Mississippi State Bulldogs at Florida Gators - 4:15 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018234500 +0000" stop="20251019004500 +0000" channel="NCAAF32">
-    <title>Post-Game: Mississippi State Bulldogs vs Florida Gators</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Mississippi State Bulldogs vs Florida Gators</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018193000 +0000" stop="20251018210000 +0000" channel="NCAAF33">
-    <title>Pre-Game: Southern Miss Golden Eagles vs Louisiana Ragin' Cajuns</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Southern Miss Golden Eagles vs Louisiana Ragin' Cajuns</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018210000 +0000" stop="20251019003000 +0000" channel="NCAAF33">
-    <title>ᴸᶦᵛᵉ Southern Miss Golden Eagles at Louisiana Ragin' Cajuns - 5:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Southern Miss Golden Eagles at Louisiana Ragin' Cajuns - 5:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019003000 +0000" stop="20251019013000 +0000" channel="NCAAF33">
-    <title>Post-Game: Southern Miss Golden Eagles vs Louisiana Ragin' Cajuns</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Southern Miss Golden Eagles vs Louisiana Ragin' Cajuns</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018210000 +0000" stop="20251018223000 +0000" channel="NCAAF34">
-    <title>Pre-Game: Washington State Cougars vs #18 Virginia Cavaliers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Washington State Cougars vs #18 Virginia Cavaliers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018223000 +0000" stop="20251019020000 +0000" channel="NCAAF34">
-    <title>ᴸᶦᵛᵉ Washington State Cougars at #18 Virginia Cavaliers - 6:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Washington State Cougars at #18 Virginia Cavaliers - 6:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019020000 +0000" stop="20251019030000 +0000" channel="NCAAF34">
-    <title>Post-Game: Washington State Cougars vs #18 Virginia Cavaliers</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Washington State Cougars vs #18 Virginia Cavaliers</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018210000 +0000" stop="20251018223000 +0000" channel="NCAAF35">
-    <title>Pre-Game: #8 Oregon Ducks vs Rutgers Scarlet Knights</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #8 Oregon Ducks vs Rutgers Scarlet Knights</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018223000 +0000" stop="20251019020000 +0000" channel="NCAAF35">
-    <title>ᴸᶦᵛᵉ #8 Oregon Ducks at Rutgers Scarlet Knights - 6:30 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #8 Oregon Ducks at Rutgers Scarlet Knights - 6:30 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019020000 +0000" stop="20251019030000 +0000" channel="NCAAF35">
-    <title>Post-Game: #8 Oregon Ducks vs Rutgers Scarlet Knights</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #8 Oregon Ducks vs Rutgers Scarlet Knights</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018213000 +0000" stop="20251018230000 +0000" channel="NCAAF36">
-    <title>Pre-Game: Maryland Terrapins vs UCLA Bruins</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Maryland Terrapins vs UCLA Bruins</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019023000 +0000" channel="NCAAF36">
-    <title>ᴸᶦᵛᵉ Maryland Terrapins at UCLA Bruins - 7:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Maryland Terrapins at UCLA Bruins - 7:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019023000 +0000" stop="20251019033000 +0000" channel="NCAAF36">
-    <title>Post-Game: Maryland Terrapins vs UCLA Bruins</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Maryland Terrapins vs UCLA Bruins</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018213000 +0000" stop="20251018230000 +0000" channel="NCAAF37">
-    <title>Pre-Game: Hawai'i Rainbow Warriors vs Colorado State Rams</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Hawai'i Rainbow Warriors vs Colorado State Rams</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019023000 +0000" channel="NCAAF37">
-    <title>ᴸᶦᵛᵉ Hawai'i Rainbow Warriors at Colorado State Rams - 7:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Hawai'i Rainbow Warriors at Colorado State Rams - 7:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019023000 +0000" stop="20251019033000 +0000" channel="NCAAF37">
-    <title>Post-Game: Hawai'i Rainbow Warriors vs Colorado State Rams</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Hawai'i Rainbow Warriors vs Colorado State Rams</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018213000 +0000" stop="20251018230000 +0000" channel="NCAAF38">
-    <title>Pre-Game: #21 Texas Longhorns vs Kentucky Wildcats</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: #21 Texas Longhorns vs Kentucky Wildcats</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019023000 +0000" channel="NCAAF38">
-    <title>ᴸᶦᵛᵉ #21 Texas Longhorns at Kentucky Wildcats - 7:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ #21 Texas Longhorns at Kentucky Wildcats - 7:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019023000 +0000" stop="20251019033000 +0000" channel="NCAAF38">
-    <title>Post-Game: #21 Texas Longhorns vs Kentucky Wildcats</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: #21 Texas Longhorns vs Kentucky Wildcats</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018213000 +0000" stop="20251018230000 +0000" channel="NCAAF39">
-    <title>Pre-Game: Penn State Nittany Lions vs Iowa Hawkeyes</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Penn State Nittany Lions vs Iowa Hawkeyes</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019023000 +0000" channel="NCAAF39">
-    <title>ᴸᶦᵛᵉ Penn State Nittany Lions at Iowa Hawkeyes - 7:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Penn State Nittany Lions at Iowa Hawkeyes - 7:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019023000 +0000" stop="20251019033000 +0000" channel="NCAAF39">
-    <title>Post-Game: Penn State Nittany Lions vs Iowa Hawkeyes</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Penn State Nittany Lions vs Iowa Hawkeyes</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018213000 +0000" stop="20251018230000 +0000" channel="NCAAF40">
-    <title>Pre-Game: Georgia State Panthers vs Georgia Southern Eagles</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Pre-Game: Georgia State Panthers vs Georgia Southern Eagles</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251018230000 +0000" stop="20251019023000 +0000" channel="NCAAF40">
-    <title>ᴸᶦᵛᵉ Georgia State Panthers at Georgia Southern Eagles - 7:00 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">ᴸᶦᵛᵉ Georgia State Panthers at Georgia Southern Eagles - 7:00 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
   <programme start="20251019023000 +0000" stop="20251019033000 +0000" channel="NCAAF40">
-    <title>Post-Game: Georgia State Panthers vs Georgia Southern Eagles</title>
-    <desc>Game coverage unavailable.</desc>
+    <title lang="en">Post-Game: Georgia State Panthers vs Georgia Southern Eagles</title>
+    <desc lang="en">Game coverage unavailable.</desc>
     <category>Sports</category>
+    <language>en</language>
   </programme>
 </tv>
