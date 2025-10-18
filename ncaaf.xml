@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="https://github.com/your-repo" source-info-name="NCAAF EPG">
+  <channel id="NCAAF01">
+    <display-name>NCAAF 01</display-name>
+  </channel>
+  <channel id="NCAAF02">
+    <display-name>NCAAF 02</display-name>
+  </channel>
+  <channel id="NCAAF03">
+    <display-name>NCAAF 03</display-name>
+  </channel>
+  <channel id="NCAAF04">
+    <display-name>NCAAF 04</display-name>
+  </channel>
+  <channel id="NCAAF05">
+    <display-name>NCAAF 05</display-name>
+  </channel>
+  <channel id="NCAAF06">
+    <display-name>NCAAF 06</display-name>
+  </channel>
+  <channel id="NCAAF07">
+    <display-name>NCAAF 07</display-name>
+  </channel>
+  <channel id="NCAAF08">
+    <display-name>NCAAF 08</display-name>
+  </channel>
+  <channel id="NCAAF09">
+    <display-name>NCAAF 09</display-name>
+  </channel>
+  <channel id="NCAAF10">
+    <display-name>NCAAF 10</display-name>
+  </channel>
+  <channel id="NCAAF11">
+    <display-name>NCAAF 11</display-name>
+  </channel>
+  <channel id="NCAAF12">
+    <display-name>NCAAF 12</display-name>
+  </channel>
+  <channel id="NCAAF13">
+    <display-name>NCAAF 13</display-name>
+  </channel>
+  <channel id="NCAAF14">
+    <display-name>NCAAF 14</display-name>
+  </channel>
+  <channel id="NCAAF15">
+    <display-name>NCAAF 15</display-name>
+  </channel>
+  <channel id="NCAAF16">
+    <display-name>NCAAF 16</display-name>
+  </channel>
+  <channel id="NCAAF17">
+    <display-name>NCAAF 17</display-name>
+  </channel>
+  <channel id="NCAAF18">
+    <display-name>NCAAF 18</display-name>
+  </channel>
+  <channel id="NCAAF19">
+    <display-name>NCAAF 19</display-name>
+  </channel>
+  <channel id="NCAAF20">
+    <display-name>NCAAF 20</display-name>
+  </channel>
+  <channel id="NCAAF21">
+    <display-name>NCAAF 21</display-name>
+  </channel>
+  <channel id="NCAAF22">
+    <display-name>NCAAF 22</display-name>
+  </channel>
+  <channel id="NCAAF23">
+    <display-name>NCAAF 23</display-name>
+  </channel>
+  <channel id="NCAAF24">
+    <display-name>NCAAF 24</display-name>
+  </channel>
+  <channel id="NCAAF25">
+    <display-name>NCAAF 25</display-name>
+  </channel>
+  <channel id="NCAAF26">
+    <display-name>NCAAF 26</display-name>
+  </channel>
+  <channel id="NCAAF27">
+    <display-name>NCAAF 27</display-name>
+  </channel>
+  <channel id="NCAAF28">
+    <display-name>NCAAF 28</display-name>
+  </channel>
+  <channel id="NCAAF29">
+    <display-name>NCAAF 29</display-name>
+  </channel>
+  <channel id="NCAAF30">
+    <display-name>NCAAF 30</display-name>
+  </channel>
+  <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF01">
+    <title>Pre-Game: #10 LSU Tigers vs #17 Vanderbilt Commodores</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF01">
+    <title>[Live] #10 LSU Tigers at #17 Vanderbilt Commodores - 12:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF01">
+    <title>Post-Game: #10 LSU Tigers vs #17 Vanderbilt Commodores</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018143000 +0000" stop="20251018160000 +0000" channel="NCAAF02">
+    <title>Pre-Game: Central Michigan Chippewas vs Bowling Green Falcons</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018160000 +0000" stop="20251018193000 +0000" channel="NCAAF02">
+    <title>[Live] Central Michigan Chippewas at Bowling Green Falcons - 12:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018203000 +0000" channel="NCAAF02">
+    <title>Post-Game: Central Michigan Chippewas vs Bowling Green Falcons</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF21">
+    <title>Pre-Game: UNLV Rebels vs Boise State Broncos</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF21">
+    <title>[Live] UNLV Rebels at Boise State Broncos - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF21">
+    <title>Post-Game: UNLV Rebels vs Boise State Broncos</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF22">
+    <title>Pre-Game: UTSA Roadrunners vs North Texas Mean Green</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF22">
+    <title>[Live] UTSA Roadrunners at North Texas Mean Green - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF22">
+    <title>Post-Game: UTSA Roadrunners vs North Texas Mean Green</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF23">
+    <title>Pre-Game: SMU Mustangs vs Clemson Tigers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF23">
+    <title>[Live] SMU Mustangs at Clemson Tigers - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF23">
+    <title>Post-Game: SMU Mustangs vs Clemson Tigers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF24">
+    <title>Pre-Game: #4 Texas A&M Aggies vs Arkansas Razorbacks</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF24">
+    <title>[Live] #4 Texas A&M Aggies at Arkansas Razorbacks - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF24">
+    <title>Post-Game: #4 Texas A&M Aggies vs Arkansas Razorbacks</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF25">
+    <title>Pre-Game: Michigan State Spartans vs #3 Indiana Hoosiers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF25">
+    <title>[Live] Michigan State Spartans at #3 Indiana Hoosiers - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF25">
+    <title>Post-Game: Michigan State Spartans vs #3 Indiana Hoosiers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF26">
+    <title>Pre-Game: #1 Ohio State Buckeyes vs Wisconsin Badgers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF26">
+    <title>[Live] #1 Ohio State Buckeyes at Wisconsin Badgers - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF26">
+    <title>Post-Game: #1 Ohio State Buckeyes vs Wisconsin Badgers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF27">
+    <title>Pre-Game: Wyoming Cowboys vs Air Force Falcons</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF27">
+    <title>[Live] Wyoming Cowboys at Air Force Falcons - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF27">
+    <title>Post-Game: Wyoming Cowboys vs Air Force Falcons</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF28">
+    <title>Pre-Game: Northern Illinois Huskies vs Ohio Bobcats</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF28">
+    <title>[Live] Northern Illinois Huskies at Ohio Bobcats - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF28">
+    <title>Post-Game: Northern Illinois Huskies vs Ohio Bobcats</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018193000 +0000" channel="NCAAF29">
+    <title>Pre-Game: #5 Ole Miss Rebels vs #9 Georgia Bulldogs</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018193000 +0000" stop="20251018230000 +0000" channel="NCAAF29">
+    <title>[Live] #5 Ole Miss Rebels at #9 Georgia Bulldogs - 3:30 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018230000 +0000" stop="20251019000000 +0000" channel="NCAAF29">
+    <title>Post-Game: #5 Ole Miss Rebels vs #9 Georgia Bulldogs</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018183000 +0000" stop="20251018200000 +0000" channel="NCAAF30">
+    <title>Pre-Game: #22 Memphis Tigers vs UAB Blazers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018200000 +0000" stop="20251018233000 +0000" channel="NCAAF30">
+    <title>[Live] #22 Memphis Tigers at UAB Blazers - 4:00 PM ET</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+  <programme start="20251018233000 +0000" stop="20251019003000 +0000" channel="NCAAF30">
+    <title>Post-Game: #22 Memphis Tigers vs UAB Blazers</title>
+    <desc>Game coverage unavailable.</desc>
+    <category>Sports</category>
+  </programme>
+</tv>
