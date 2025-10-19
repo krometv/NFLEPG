@@ -100,129 +100,291 @@
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019122500 +0000" stop="20251019132500 +0000" channel="NFL01">
-    <title lang="en">Pre-Game: Rams vs Jaguars</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Rams and Jaguars. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019132500 +0000" stop="20251019162500 +0000" channel="NFL01">
-    <title lang="en">ᴸᶦᵛᵉ Rams at Jaguars - 9:25 AM ET</title>
-    <desc lang="en">As of October 19, 2025, the Los Angeles Rams face off against the Jacksonville Jaguars in a crucial mid-season clash that could pivot the playoff prospects for both teams. Key players to watch are the Rams' quarterback, who has been leading the league in passing yards, and the Jaguars'</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019162500 +0000" stop="20251019172500 +0000" channel="NFL01">
-    <title lang="en">Post-Game: Rams vs Jaguars</title>
-    <desc lang="en">Post-game analysis of the Rams vs Jaguars NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL02">
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL01">
     <title lang="en">Pre-Game: Panthers vs Jets</title>
     <desc lang="en">Pre-game coverage of the NFL matchup between the Panthers and Jets. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL02">
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL01">
     <title lang="en">ᴸᶦᵛᵉ Panthers at Jets - 12:55 PM ET</title>
-    <desc lang="en">As of October 19, 2025, the Carolina Panthers face off against the New York Jets in a riveting mid-season clash that could have significant playoff implications. Key players to watch include the Panthers' dynamic quarterback, who's leading the league in passing yards, and the Jets' star linebacker</desc>
+    <desc lang="en">Tonight's NFL clash on October 19, 2025, features the Carolina Panthers facing off against the New York Jets, with both teams seeking crucial wins to boost their playoff hopes mid-season. Key players to watch include the Panthers' dynamic quarterback, who has been instrumental in their offensive surge, and</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL02">
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL01">
     <title lang="en">Post-Game: Panthers vs Jets</title>
     <desc lang="en">Post-game analysis of the Panthers vs Jets NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL03">
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL02">
     <title lang="en">Pre-Game: Saints vs Bears</title>
     <desc lang="en">Pre-game coverage of the NFL matchup between the Saints and Bears. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL03">
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL02">
     <title lang="en">ᴸᶦᵛᵉ Saints at Bears - 12:55 PM ET</title>
-    <desc lang="en">In a pivotal mid-season clash, the New Orleans Saints face off against the Chicago Bears at Soldier Field on October 19, 2025, with both teams desperately seeking a victory to boost their playoff hopes. Key players to watch include the Saints' explosive quarterback, Jameis Winston, who has been</desc>
+    <desc lang="en">In a thrilling mid-season clash set for October 19, 2025, the New Orleans Saints take on the Chicago Bears, with both teams eager to boost their playoff credentials after a mixed start to the season. Key players to watch include Saints quarterback Marcus Williams, who has been electric with his arm</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL03">
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL02">
     <title lang="en">Post-Game: Saints vs Bears</title>
     <desc lang="en">Post-game analysis of the Saints vs Bears NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL05">
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL04">
     <title lang="en">Pre-Game: Dolphins vs Browns</title>
     <desc lang="en">Pre-game coverage of the NFL matchup between the Dolphins and Browns. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL05">
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL04">
     <title lang="en">ᴸᶦᵛᵉ Dolphins at Browns - 12:55 PM ET</title>
-    <desc lang="en">In today's NFL clash on October 19, 2025, the Miami Dolphins face off against the Cleveland Browns, bringing intense competition as both teams are vying for a playoff spot midway through the season. Key players to watch include Dolphins' quarterback, Jayden Tyler, renowned for his precision passing</desc>
+    <desc lang="en">In today's NFL showdown, the Miami Dolphins face off against the Cleveland Browns in a pivotal mid-season game that could significantly impact playoff positioning. The Dolphins, led by their dynamic quarterback, are looking to capitalize on their high-powered offense, while the Browns hope their star running back can exploit weaknesses in Miami</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL05">
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL04">
     <title lang="en">Post-Game: Dolphins vs Browns</title>
     <desc lang="en">Post-game analysis of the Dolphins vs Browns NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL06">
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL05">
     <title lang="en">Pre-Game: Raiders vs Chiefs</title>
     <desc lang="en">Pre-game coverage of the NFL matchup between the Raiders and Chiefs. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL06">
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL05">
     <title lang="en">ᴸᶦᵛᵉ Raiders at Chiefs - 12:55 PM ET</title>
-    <desc lang="en">In a thrilling Week 7 clash underscoring their fierce AFC West rivalry, the Kansas City Chiefs host the Las Vegas Raiders at Arrowhead Stadium, with both teams eager to dominate after a mixed start to the season. Key players to watch include the Chiefs' dynamic quarterback Patrick Mahomes, who's</desc>
+    <desc lang="en">As of October 19, 2025, the Kansas City Chiefs host the Las Vegas Raiders in a pivotal AFC West showdown, with both teams vying for supremacy in a tightly contested division. Key players to watch include the Chiefs' quarterback, Patrick Mahomes, who is having another MVP-caliber</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL06">
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL05">
     <title lang="en">Post-Game: Raiders vs Chiefs</title>
     <desc lang="en">Post-game analysis of the Raiders vs Chiefs NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL07">
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL06">
     <title lang="en">Pre-Game: Patriots vs Titans</title>
     <desc lang="en">Pre-game coverage of the NFL matchup between the Patriots and Titans. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL07">
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL06">
     <title lang="en">ᴸᶦᵛᵉ Patriots at Titans - 12:55 PM ET</title>
-    <desc lang="en">In a gripping mid-season clash on October 19, 2025, the New England Patriots face off against the Tennessee Titans, with both teams eager to solidify their playoff aspirations. Key players to watch include the Patriot's dynamic quarterback, Alex Smith, who has been leading the league with impressive passing</desc>
+    <desc lang="en">In today's NFL showdown, the New England Patriots take on the Tennessee Titans in a crucial mid-season game, with both teams vying for playoff positioning. Patriots' quarterback, Jake Smith, looks to exploit the Titans' defense, which has shown vulnerabilities against the pass, while Titans' star running back</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL07">
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL06">
     <title lang="en">Post-Game: Patriots vs Titans</title>
     <desc lang="en">Post-game analysis of the Patriots vs Titans NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL08">
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL07">
     <title lang="en">Pre-Game: Eagles vs Vikings</title>
     <desc lang="en">Pre-game coverage of the NFL matchup between the Eagles and Vikings. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL08">
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL07">
     <title lang="en">ᴸᶦᵛᵉ Eagles at Vikings - 12:55 PM ET</title>
-    <desc lang="en">As of October 19, 2025, the Philadelphia Eagles face off against the Minnesota Vikings in a highly anticipated NFL showdown, with both teams vying for supremacy in their divisions. Key players to watch include Eagles quarterback Jalen Hurts, who is having a stellar season, and Vikings' star</desc>
+    <desc lang="en">In a compelling Week 7 showdown, the undefeated Philadelphia Eagles, led by their dynamic quarterback, clash against the Minnesota Vikings at U.S. Bank Stadium, with both teams vying for supremacy in the NFC. The Vikings, powered by their formidable defense and versatile running back, aim to halt the Eagles</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL08">
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL07">
     <title lang="en">Post-Game: Eagles vs Vikings</title>
     <desc lang="en">Post-game analysis of the Eagles vs Vikings NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="NFL08">
+    <title lang="en">Pre-Game: Colts vs Chargers</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Colts and Chargers. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019230000 +0000" channel="NFL08">
+    <title lang="en">ᴸᶦᵛᵉ Colts at Chargers - 4:00 PM ET</title>
+    <desc lang="en">As of October 19, 2025, the Indianapolis Colts take on the Los Angeles Chargers in a crucial mid-season clash that could steer playoff prospects for both teams. The game features a high-stakes quarterback duel between Colts' rising star, Marcus Whitfield, and Chargers' seasoned MVP, Jake</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="NFL08">
+    <title lang="en">Post-Game: Colts vs Chargers</title>
+    <desc lang="en">Post-game analysis of the Colts vs Chargers NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="NFL09">
+    <title lang="en">Pre-Game: Giants vs Broncos</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Giants and Broncos. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019200000 +0000" stop="20251019230000 +0000" channel="NFL09">
+    <title lang="en">ᴸᶦᵛᵉ Giants at Broncos - 4:00 PM ET</title>
+    <desc lang="en">In today's NFL showdown, the New York Giants face off against the Denver Broncos in a keenly anticipated mid-season clash that could heavily influence playoff prospects for both teams. Key players to watch include the Giants' quarterback, who has been leading the league with impressive passing yards, and the Broncos' defensive</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="NFL09">
+    <title lang="en">Post-Game: Giants vs Broncos</title>
+    <desc lang="en">Post-game analysis of the Giants vs Broncos NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019192000 +0000" stop="20251019202000 +0000" channel="NFL10">
+    <title lang="en">Pre-Game: Commanders vs Cowboys</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Commanders and Cowboys. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019202000 +0000" stop="20251019232000 +0000" channel="NFL10">
+    <title lang="en">ᴸᶦᵛᵉ Commanders at Cowboys - 4:20 PM ET</title>
+    <desc lang="en">In today's NFL showdown, the Dallas Cowboys host the Washington Commanders in a critical NFC East matchup that could shape the playoff landscape. With Cowboys' star quarterback Dak Prescott leading a high-powered offense against a formidable Commanders defense anchored by standout Chase Young, this game promises fierce competition and pivotal season implications</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019232000 +0000" stop="20251020002000 +0000" channel="NFL10">
+    <title lang="en">Post-Game: Commanders vs Cowboys</title>
+    <desc lang="en">Post-game analysis of the Commanders vs Cowboys NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019192000 +0000" stop="20251019202000 +0000" channel="NFL11">
+    <title lang="en">Pre-Game: Packers vs Cardinals</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Packers and Cardinals. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019202000 +0000" stop="20251019232000 +0000" channel="NFL11">
+    <title lang="en">ᴸᶦᵛᵉ Packers at Cardinals - 4:20 PM ET</title>
+    <desc lang="en">In today's NFL clash on October 19, 2025, the Green Bay Packers face off against the Arizona Cardinals in a pivotal mid-season game, with both teams eager to secure a win to bolster their playoff chances. Key players to watch include the Packers' dynamic quarterback, who's been leading</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019232000 +0000" stop="20251020002000 +0000" channel="NFL11">
+    <title lang="en">Post-Game: Packers vs Cardinals</title>
+    <desc lang="en">Post-game analysis of the Packers vs Cardinals NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019231500 +0000" stop="20251020001500 +0000" channel="NFL12">
+    <title lang="en">Pre-Game: Falcons vs 49ers (In French)</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Falcons and 49ers (In French). Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020001500 +0000" stop="20251020031500 +0000" channel="NFL12">
+    <title lang="en">ᴸᶦᵛᵉ Falcons at 49ers (In French) - 8:15 PM ET</title>
+    <desc lang="en">Les Falcons d'Atlanta affrontent aujourd'hui les 49ers de San Francisco dans un match crucial pour la mi-saison, les deux équipes cherchant à solidifier leur position en vue des playoffs. Les regards seront particulièrement tournés vers le quarterback vedette des 49</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020031500 +0000" stop="20251020041500 +0000" channel="NFL12">
+    <title lang="en">Post-Game: Falcons vs 49ers (In French)</title>
+    <desc lang="en">Post-game analysis of the Falcons vs 49ers (In French) NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019231500 +0000" stop="20251020001500 +0000" channel="NFL13">
+    <title lang="en">Pre-Game: Falcons vs 49ers</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Falcons and 49ers. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020001500 +0000" stop="20251020031500 +0000" channel="NFL13">
+    <title lang="en">ᴸᶦᵛᵉ Falcons at 49ers - 8:15 PM ET</title>
+    <desc lang="en">In today’s NFL clash, the Atlanta Falcons take on the San Francisco 49ers in a high-stakes game that could pivot their season standings, with both teams neck-and-neck in their conference race. Key players to watch include the Falcons’ breakout star quarterback, who has been delivering exceptional performances,</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020031500 +0000" stop="20251020041500 +0000" channel="NFL13">
+    <title lang="en">Post-Game: Falcons vs 49ers</title>
+    <desc lang="en">Post-game analysis of the Falcons vs 49ers NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020215500 +0000" stop="20251020225500 +0000" channel="NFL14">
+    <title lang="en">Pre-Game: Buccaneers vs Lions</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Buccaneers and Lions. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020225500 +0000" stop="20251021015500 +0000" channel="NFL14">
+    <title lang="en">ᴸᶦᵛᵉ Buccaneers at Lions - 6:55 PM ET</title>
+    <desc lang="en">As of October 19, 2025, the Tampa Bay Buccaneers face off against the Detroit Lions in a pivotal mid-season game, with both teams eager to climb higher in the NFC standings. Key players to watch include the Buccaneers' dynamic quarterback, who has been leading the league in passing yards,</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021015500 +0000" stop="20251021025500 +0000" channel="NFL14">
+    <title lang="en">Post-Game: Buccaneers vs Lions</title>
+    <desc lang="en">Post-game analysis of the Buccaneers vs Lions NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020215500 +0000" stop="20251020225500 +0000" channel="NFL15">
+    <title lang="en">Pre-Game: Buccaneers vs Lions (In French)</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Buccaneers and Lions (In French). Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251020225500 +0000" stop="20251021015500 +0000" channel="NFL15">
+    <title lang="en">ᴸᶦᵛᵉ Buccaneers at Lions (In French) - 6:55 PM ET</title>
+    <desc lang="en">Les Buccaneers de Tampa Bay affrontent aujourd'hui les Lions de Detroit dans un match crucial pour la saison, les deux équipes ayant besoin d'une victoire pour rester en course pour les playoffs. Les regards seront tournés vers le quarterback vedette des Buccaneers, toujours impressionnant cette</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021015500 +0000" stop="20251021025500 +0000" channel="NFL15">
+    <title lang="en">Post-Game: Buccaneers vs Lions (In French)</title>
+    <desc lang="en">Post-game analysis of the Buccaneers vs Lions (In French) NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021005500 +0000" stop="20251021015500 +0000" channel="NFL16">
+    <title lang="en">Pre-Game: Texans vs Seahawks</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Texans and Seahawks. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021015500 +0000" stop="20251021045500 +0000" channel="NFL16">
+    <title lang="en">ᴸᶦᵛᵉ Texans at Seahawks - 9:55 PM ET</title>
+    <desc lang="en">In a thrilling Week 7 matchup, the Houston Texans take on the Seattle Seahawks at Lumen Field, with both teams aiming to bolster their playoff credentials after a mixed start to the season. Key players to watch include Texans' quarterback Spencer Rattler, who has been showing promising growth, and Seahawks</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021045500 +0000" stop="20251021055500 +0000" channel="NFL16">
+    <title lang="en">Post-Game: Texans vs Seahawks</title>
+    <desc lang="en">Post-game analysis of the Texans vs Seahawks NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021005500 +0000" stop="20251021015500 +0000" channel="NFL17">
+    <title lang="en">Pre-Game: Texans vs Seahawks (In French)</title>
+    <desc lang="en">Pre-game coverage of the NFL matchup between the Texans and Seahawks (In French). Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021015500 +0000" stop="20251021045500 +0000" channel="NFL17">
+    <title lang="en">ᴸᶦᵛᵉ Texans at Seahawks (In French) - 9:55 PM ET</title>
+    <desc lang="en">Les Texans de Houston affrontent les Seahawks de Seattle dans un match crucial de mi-saison, les deux équipes cherchant à améliorer leur position en vue des playoffs. Les regards seront notamment tournés vers le quarterback vedette des Seahawks et le puissant défenseur des</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251021045500 +0000" stop="20251021055500 +0000" channel="NFL17">
+    <title lang="en">Post-Game: Texans vs Seahawks (In French)</title>
+    <desc lang="en">Post-game analysis of the Texans vs Seahawks (In French) NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
     <category>Sports</category>
     <language>en</language>
   </programme>
