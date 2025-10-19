@@ -91,78 +91,33 @@
   <channel id="NHL30">
     <display-name>NHL 30</display-name>
   </channel>
-  <programme start="20251018155500 +0000" stop="20251018165500 +0000" channel="NHL01">
-    <title>Pre-Game: Panthers vs Sabres (Away Broadcast)</title>
+  <programme start="20251019152500 +0000" stop="20251019162500 +0000" channel="NHL01">
+    <title>Pre-Game: Canucks vs Capitals</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251018165500 +0000" stop="20251018195500 +0000" channel="NHL01">
-    <title>[Live] Panthers at Sabres (Away Broadcast) - 12:55 PM ET</title>
+  <programme start="20251019162500 +0000" stop="20251019192500 +0000" channel="NHL01">
+    <title>[Live] Canucks at Capitals - 12:25 PM ET</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251018195500 +0000" stop="20251018205500 +0000" channel="NHL01">
-    <title>Post-Game: Panthers vs Sabres (Away Broadcast)</title>
+  <programme start="20251019192500 +0000" stop="20251019202500 +0000" channel="NHL01">
+    <title>Post-Game: Canucks vs Capitals</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251018182500 +0000" stop="20251018192500 +0000" channel="NHL02">
-    <title>Pre-Game: Oilers vs Devils</title>
+  <programme start="20251019152500 +0000" stop="20251019162500 +0000" channel="NHL02">
+    <title>Pre-Game: Canucks vs Capitals (Canada National Broadcast)</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251018192500 +0000" stop="20251018222500 +0000" channel="NHL02">
-    <title>[Live] Oilers at Devils - 3:25 PM ET</title>
+  <programme start="20251019162500 +0000" stop="20251019192500 +0000" channel="NHL02">
+    <title>[Live] Canucks at Capitals (Canada National Broadcast) - 12:25 PM ET</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
-  <programme start="20251018222500 +0000" stop="20251018232500 +0000" channel="NHL02">
-    <title>Post-Game: Oilers vs Devils</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018155500 +0000" stop="20251018165500 +0000" channel="NHL03">
-    <title>Pre-Game: Panthers vs Sabres</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018165500 +0000" stop="20251018195500 +0000" channel="NHL03">
-    <title>[Live] Panthers at Sabres - 12:55 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018195500 +0000" stop="20251018205500 +0000" channel="NHL03">
-    <title>Post-Game: Panthers vs Sabres</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018175500 +0000" stop="20251018185500 +0000" channel="NHL04">
-    <title>Pre-Game: Islanders vs Senators (Away Broadcast)</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018185500 +0000" stop="20251018215500 +0000" channel="NHL04">
-    <title>[Live] Islanders at Senators (Away Broadcast) - 2:55 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018215500 +0000" stop="20251018225500 +0000" channel="NHL04">
-    <title>Post-Game: Islanders vs Senators (Away Broadcast)</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018175500 +0000" stop="20251018185500 +0000" channel="NHL05">
-    <title>Pre-Game: Islanders vs Senators</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018185500 +0000" stop="20251018215500 +0000" channel="NHL05">
-    <title>[Live] Islanders at Senators - 2:55 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
-  </programme>
-  <programme start="20251018215500 +0000" stop="20251018225500 +0000" channel="NHL05">
-    <title>Post-Game: Islanders vs Senators</title>
+  <programme start="20251019192500 +0000" stop="20251019202500 +0000" channel="NHL02">
+    <title>Post-Game: Canucks vs Capitals (Canada National Broadcast)</title>
     <desc>Game coverage unavailable.</desc>
     <category>Sports</category>
   </programme>
