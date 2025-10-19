@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="https://github.com/your-repo" source-info-name="NFL EPG">
+  <channel id="NFL01">
+    <display-name>NFL 01</display-name>
+  </channel>
+  <channel id="NFL02">
+    <display-name>NFL 02</display-name>
+  </channel>
+  <channel id="NFL03">
+    <display-name>NFL 03</display-name>
+  </channel>
+  <channel id="NFL04">
+    <display-name>NFL 04</display-name>
+  </channel>
+  <channel id="NFL05">
+    <display-name>NFL 05</display-name>
+  </channel>
+  <channel id="NFL06">
+    <display-name>NFL 06</display-name>
+  </channel>
+  <channel id="NFL07">
+    <display-name>NFL 07</display-name>
+  </channel>
+  <channel id="NFL08">
+    <display-name>NFL 08</display-name>
+  </channel>
+  <channel id="NFL09">
+    <display-name>NFL 09</display-name>
+  </channel>
+  <channel id="NFL10">
+    <display-name>NFL 10</display-name>
+  </channel>
+  <channel id="NFL11">
+    <display-name>NFL 11</display-name>
+  </channel>
+  <channel id="NFL12">
+    <display-name>NFL 12</display-name>
+  </channel>
+  <channel id="NFL13">
+    <display-name>NFL 13</display-name>
+  </channel>
+  <channel id="NFL14">
+    <display-name>NFL 14</display-name>
+  </channel>
+  <channel id="NFL15">
+    <display-name>NFL 15</display-name>
+  </channel>
+  <channel id="NFL16">
+    <display-name>NFL 16</display-name>
+  </channel>
+  <channel id="NFL17">
+    <display-name>NFL 17</display-name>
+  </channel>
+  <channel id="NFL18">
+    <display-name>NFL 18</display-name>
+  </channel>
+  <channel id="NFL19">
+    <display-name>NFL 19</display-name>
+  </channel>
+  <channel id="NFL20">
+    <display-name>NFL 20</display-name>
+  </channel>
+  <channel id="NFL21">
+    <display-name>NFL 21</display-name>
+  </channel>
+  <channel id="NFL22">
+    <display-name>NFL 22</display-name>
+  </channel>
+  <channel id="NFL23">
+    <display-name>NFL 23</display-name>
+  </channel>
+  <channel id="NFL24">
+    <display-name>NFL 24</display-name>
+  </channel>
+  <channel id="NFL25">
+    <display-name>NFL 25</display-name>
+  </channel>
+  <channel id="NFL26">
+    <display-name>NFL 26</display-name>
+  </channel>
+  <channel id="NFL27">
+    <display-name>NFL 27</display-name>
+  </channel>
+  <channel id="NFL28">
+    <display-name>NFL 28</display-name>
+  </channel>
+  <channel id="NFL29">
+    <display-name>NFL 29</display-name>
+  </channel>
+  <channel id="NFL30">
+    <display-name>NFL 30</display-name>
+  </channel>
+  <programme start="20251019122500 +0000" stop="20251019132500 +0000" channel="NFL01">
+    <title lang="en">Pre-Game: Rams vs Jaguars</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019132500 +0000" stop="20251019162500 +0000" channel="NFL01">
+    <title lang="en">ᴸᶦᵛᵉ Rams at Jaguars - 9:25 AM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019162500 +0000" stop="20251019172500 +0000" channel="NFL01">
+    <title lang="en">Post-Game: Rams vs Jaguars</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL02">
+    <title lang="en">Pre-Game: Panthers vs Jets</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL02">
+    <title lang="en">ᴸᶦᵛᵉ Panthers at Jets - 12:55 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL02">
+    <title lang="en">Post-Game: Panthers vs Jets</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL03">
+    <title lang="en">Pre-Game: Saints vs Bears</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL03">
+    <title lang="en">ᴸᶦᵛᵉ Saints at Bears - 12:55 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL03">
+    <title lang="en">Post-Game: Saints vs Bears</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL05">
+    <title lang="en">Pre-Game: Dolphins vs Browns</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL05">
+    <title lang="en">ᴸᶦᵛᵉ Dolphins at Browns - 12:55 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL05">
+    <title lang="en">Post-Game: Dolphins vs Browns</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL06">
+    <title lang="en">Pre-Game: Raiders vs Chiefs</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL06">
+    <title lang="en">ᴸᶦᵛᵉ Raiders at Chiefs - 12:55 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL06">
+    <title lang="en">Post-Game: Raiders vs Chiefs</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL07">
+    <title lang="en">Pre-Game: Patriots vs Titans</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL07">
+    <title lang="en">ᴸᶦᵛᵉ Patriots at Titans - 12:55 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL07">
+    <title lang="en">Post-Game: Patriots vs Titans</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL08">
+    <title lang="en">Pre-Game: Eagles vs Vikings</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL08">
+    <title lang="en">ᴸᶦᵛᵉ Eagles at Vikings - 12:55 PM ET</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL08">
+    <title lang="en">Post-Game: Eagles vs Vikings</title>
+    <desc lang="en">Game coverage unavailable.</desc>
+    <category>Sports</category>
+    <language>en</language>
+  </programme>
+</tv>
